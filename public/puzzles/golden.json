@@ -8,33 +8,48 @@
       "index": 0,
       "name": "Golden Age \u2014 1",
       "bowls": [
+        [
+          "celadon",
+          "celadon",
+          "cobalt",
+          "cobalt",
+          "rust",
+          "sakura"
+        ],
         [],
         [
-          "cobalt",
-          "cobalt",
-          "cobalt",
-          "cobalt",
-          "cobalt",
-          "celadon"
-        ],
-        [
           "rust",
           "rust",
           "rust",
-          "tenmoku",
-          "tenmoku",
-          "celadon"
+          "rust",
+          "rust",
+          "rice"
         ],
         [
           "rice",
-          "rice",
-          "rice",
-          "rice",
-          "rice",
+          "cobalt",
+          "cobalt",
+          "cobalt",
+          "cobalt"
+        ],
+        [
+          "tenmoku",
+          "tenmoku",
+          "sakura",
+          "sakura",
           "sakura"
         ],
         [
-          "tenmoku",
+          "sakura",
+          "sakura",
+          "tenmoku"
+        ],
+        [
+          "gold",
+          "celadon",
+          "rice"
+        ],
+        [
           "tenmoku",
           "tenmoku",
           "tenmoku",
@@ -42,32 +57,18 @@
           "gold"
         ],
         [
-          "sakura",
-          "sakura",
           "celadon",
           "celadon",
-          "sakura"
-        ],
-        [
-          "gold",
-          "gold",
-          "rust",
-          "rust",
-          "rust",
-          "celadon"
-        ],
-        [
-          "sakura"
-        ],
-        [],
-        [],
-        [
-          "gold",
-          "gold",
-          "gold",
-          "cobalt",
-          "sakura",
+          "rice",
+          "rice",
           "rice"
+        ],
+        [],
+        [
+          "gold",
+          "gold",
+          "gold",
+          "gold"
         ],
         [],
         []
@@ -124,9 +125,9 @@
           "celadon",
           "celadon",
           "celadon",
-          "celadon",
-          "cobalt",
-          "rice"
+          "rice",
+          "rice",
+          "tenmoku"
         ],
         [
           "cobalt",
@@ -139,22 +140,19 @@
         [
           "rust",
           "rust",
-          "rust",
-          "rust",
-          "rust",
-          "gold"
+          "cobalt",
+          "gold",
+          "tenmoku"
         ],
         [
-          "rice"
-        ],
-        [
-          "tenmoku",
-          "tenmoku",
-          "tenmoku",
-          "tenmoku",
           "rice",
-          "gold"
+          "rice",
+          "rice",
+          "rice",
+          "celadon",
+          "tenmoku"
         ],
+        [],
         [
           "sakura",
           "sakura",
@@ -166,25 +164,27 @@
         [
           "gold",
           "gold",
-          "rice"
-        ],
-        [
-          "rice"
-        ],
-        [
-          "celadon",
-          "celadon",
-          "tenmoku",
-          "tenmoku",
+          "gold",
+          "gold",
           "sakura",
-          "gold"
+          "celadon"
+        ],
+        [],
+        [],
+        [
+          "rust",
+          "rust",
+          "rust",
+          "celadon",
+          "tenmoku"
         ],
         [
-          "rice"
+          "tenmoku"
         ],
         [],
-        [],
-        []
+        [
+          "tenmoku"
+        ]
       ],
       "capacity": 6,
       "goldDrops": 0,
@@ -236,14 +236,17 @@
       "bowls": [
         [
           "celadon",
-          "celadon"
+          "celadon",
+          "celadon",
+          "celadon",
+          "celadon",
+          "gold"
         ],
         [
           "cobalt",
           "cobalt",
-          "cobalt",
-          "tenmoku",
-          "tenmoku",
+          "sakura",
+          "celadon",
           "gold"
         ],
         [
@@ -251,52 +254,49 @@
           "rust",
           "rust",
           "rust",
-          "sakura"
+          "gold"
         ],
         [
           "rice",
-          "celadon",
-          "celadon",
-          "celadon"
+          "rice",
+          "rice",
+          "rice",
+          "rice",
+          "rust"
         ],
         [
           "tenmoku",
           "tenmoku",
           "tenmoku",
-          "cobalt",
-          "gold",
-          "gold"
+          "tenmoku",
+          "tenmoku",
+          "rust"
         ],
         [
           "sakura",
-          "gold",
-          "rice",
-          "rice",
-          "rice",
+          "sakura",
+          "sakura",
+          "sakura",
+          "tenmoku",
           "rice"
         ],
+        [],
+        [],
+        [],
         [
           "gold"
         ],
         [
+          "cobalt",
+          "cobalt",
+          "cobalt",
+          "cobalt",
           "sakura",
-          "sakura",
-          "sakura",
-          "sakura",
-          "rust",
           "gold"
         ],
         [],
-        [],
-        [],
-        [],
         [
-          "cobalt",
-          "cobalt",
-          "celadon",
-          "tenmoku",
-          "rust",
-          "rice"
+          "gold"
         ]
       ],
       "capacity": 6,
@@ -352,7 +352,7 @@
           "celadon",
           "celadon",
           "celadon",
-          "cobalt",
+          "celadon",
           "gold"
         ],
         [
@@ -360,7 +360,7 @@
           "cobalt",
           "cobalt",
           "cobalt",
-          "gold",
+          "cobalt",
           "rice"
         ],
         [
@@ -368,48 +368,49 @@
           "rust",
           "rust",
           "rust",
-          "sakura"
+          "tenmoku"
         ],
         [
           "rice",
           "rice",
           "rice",
-          "rust",
           "sakura",
-          "sakura"
-        ],
-        [
-          "tenmoku",
-          "tenmoku",
-          "celadon",
-          "rice",
-          "rice",
+          "sakura",
           "rust"
         ],
         [],
         [
+          "sakura",
+          "sakura",
+          "sakura",
+          "sakura",
+          "rice",
+          "tenmoku"
+        ],
+        [
           "gold",
           "gold",
           "gold",
           "gold",
-          "cobalt",
-          "sakura"
+          "gold",
+          "cobalt"
         ],
         [],
         [],
         [],
         [
-          "sakura"
-        ],
-        [
-          "tenmoku",
-          "tenmoku",
-          "tenmoku",
-          "tenmoku",
           "celadon",
-          "sakura"
+          "rice",
+          "tenmoku"
         ],
-        []
+        [
+          "tenmoku"
+        ],
+        [
+          "tenmoku",
+          "rust",
+          "tenmoku"
+        ]
       ],
       "capacity": 6,
       "goldDrops": 0,
@@ -460,69 +461,69 @@
       "name": "Golden Age \u2014 5",
       "bowls": [
         [
-          "celadon",
-          "celadon",
-          "celadon",
-          "cobalt",
-          "tenmoku",
-          "rust"
+          "celadon"
         ],
         [
           "cobalt",
           "cobalt",
           "cobalt",
           "cobalt",
-          "gold"
+          "cobalt",
+          "sakura"
         ],
         [
           "rust",
           "rust",
           "rust",
-          "rice"
-        ],
-        [
           "rice",
-          "rice"
-        ],
-        [
-          "tenmoku",
-          "tenmoku",
-          "tenmoku",
-          "tenmoku",
-          "gold"
-        ],
-        [
-          "sakura",
-          "sakura",
-          "sakura",
-          "celadon",
-          "rust",
+          "rice",
           "tenmoku"
         ],
         [
+          "rice",
+          "celadon",
+          "rice",
+          "celadon"
+        ],
+        [
+          "tenmoku",
+          "tenmoku",
+          "tenmoku",
+          "tenmoku",
+          "tenmoku",
+          "celadon"
+        ],
+        [
+          "sakura",
+          "sakura",
+          "sakura",
+          "sakura",
+          "rice",
+          "celadon"
+        ],
+        [
+          "gold",
           "gold",
           "gold",
           "gold",
           "cobalt",
-          "rice",
-          "rust"
-        ],
-        [],
-        [
-          "sakura",
-          "sakura",
-          "sakura",
-          "celadon",
-          "celadon",
-          "gold"
-        ],
-        [],
-        [
-          "rice",
           "rice"
         ],
         [],
-        []
+        [],
+        [],
+        [
+          "celadon"
+        ],
+        [],
+        [
+          "rust",
+          "rust",
+          "rust",
+          "gold",
+          "gold",
+          "sakura"
+        ]
       ],
       "capacity": 6,
       "goldDrops": 0,

@@ -13,6 +13,10 @@ export function renderBowls(state: GameState, onTap: (idx: number) => void): voi
   document.documentElement.style.setProperty('--bowl-height', `${areaHeight}px`);
 
   state.bowls.forEach((bowl, idx) => {
+    const wrapper = document.createElement('div');
+    wrapper.className = 'bowl-wrapper';
+    wrapper.style.setProperty('--bowl-shape', String(idx % 4));
+
     const div = document.createElement('div');
     div.className = 'bowl';
     if (state.selectedBowl === idx) div.classList.add('selected');
@@ -22,16 +26,28 @@ export function renderBowls(state: GameState, onTap: (idx: number) => void): voi
     div.setAttribute('aria-label', `Bowl ${idx + 1}`);
     div.addEventListener('click', () => onTap(idx));
 
-    bowl.forEach((color) => {
+    const rim = document.createElement('div');
+    rim.className = 'bowl-rim';
+    div.appendChild(rim);
+
+    bowl.forEach((color, fragmentIndex) => {
       const frag = document.createElement('div');
       frag.className = 'fragment';
       if (color === 'gold') frag.classList.add('fragment-gold');
       frag.dataset.color = color;
+      // shards become slightly narrower toward the top of the bowl
+      const inset = (capacity - fragmentIndex - 1) * 1.5;
+      frag.style.setProperty('--fragment-inset', `${inset}px`);
       const fraction = 1 / capacity;
-      frag.style.height = `calc(var(--bowl-height, 140px) * ${fraction})`;
+      frag.style.height = `calc(var(--bowl-height) * ${fraction})`;
       div.appendChild(frag);
     });
-    area.appendChild(div);
+
+    const foot = document.createElement('div');
+    foot.className = 'bowl-foot';
+    wrapper.appendChild(foot);
+    wrapper.appendChild(div);
+    area.appendChild(wrapper);
   });
 }
 
