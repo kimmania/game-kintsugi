@@ -9,7 +9,8 @@ export function renderBowls(state: GameState, onTap: (idx: number) => void): voi
   const capacity = state.capacity;
 
   // set a sensible bowl height once before building fragments
-  const areaHeight = Math.min(window.innerHeight * 0.42, 360);
+  const maxCapacity = Math.max(...state.bowls.map(() => state.capacity));
+  const areaHeight = Math.min(window.innerHeight * 0.42, 120 * maxCapacity);
   document.documentElement.style.setProperty('--bowl-height', `${areaHeight}px`);
 
   state.bowls.forEach((bowl, idx) => {
@@ -39,7 +40,7 @@ export function renderBowls(state: GameState, onTap: (idx: number) => void): voi
       const inset = (capacity - fragmentIndex - 1) * 1.5;
       frag.style.setProperty('--fragment-inset', `${inset}px`);
       const fraction = 1 / capacity;
-      frag.style.height = `calc(var(--bowl-height) * ${fraction})`;
+      frag.style.setProperty('--fragment-height-fraction', `${fraction}`);
       div.appendChild(frag);
     });
 

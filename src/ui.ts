@@ -118,29 +118,37 @@ export function renderLevelScreen(level: LevelData, moves: number): void {
   `;
 }
 
-export function getFragmentColorStyle(colorId: string): { background: string; color: string } {
-  switch (colorId) {
-    case 'celadon':
-      return { background: 'var(--celadon)', color: '#fff' };
-    case 'cobalt':
-      return { background: 'var(--cobalt)', color: '#fff' };
-    case 'rust':
-      return { background: 'var(--rust)', color: '#fff' };
-    case 'rice':
-      return { background: 'var(--rice)', color: '#1a1814' };
-    case 'tenmoku':
-      return { background: 'var(--tenmoku)', color: '#fff' };
-    case 'sakura':
-      return { background: 'var(--sakura)', color: '#fff' };
-    case 'gold':
-      return { background: 'var(--gold)', color: '#1a1814' };
-    default:
-      return { background: '#555', color: '#fff' };
-  }
-}
-
-export function clearSelection(): void {
-  document.querySelectorAll('.bowl.selected').forEach((b) => b.classList.remove('selected'));
+export function showConfirmModal(
+  title: string,
+  message: string,
+  confirmLabel: string,
+  cancelLabel: string,
+  onConfirm: () => void,
+  onCancel?: () => void
+): void {
+  removeModal('confirm-modal');
+  const overlay = document.createElement('div');
+  overlay.id = 'confirm-modal';
+  overlay.className = 'modal-overlay';
+  overlay.innerHTML = `
+    <div class="modal-inner">
+      <h2>${escapeHtml(title)}</h2>
+      <p style="color:var(--muted);line-height:1.6">${escapeHtml(message)}</p>
+      <div id="victory-actions">
+        <button id="confirm-cancel" type="button">${escapeHtml(cancelLabel)}</button>
+        <button id="confirm-ok" class="btn btn-primary" type="button">${escapeHtml(confirmLabel)}</button>
+      </div>
+    </div>
+  `;
+  document.body.appendChild(overlay);
+  el<HTMLButtonElement>('confirm-cancel').addEventListener('click', () => {
+    removeModal('confirm-modal');
+    onCancel?.();
+  });
+  el<HTMLButtonElement>('confirm-ok').addEventListener('click', () => {
+    removeModal('confirm-modal');
+    onConfirm();
+  });
 }
 
 export function escapeHtml(text: string): string {

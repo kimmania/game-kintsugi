@@ -4,7 +4,7 @@ import { loadSave, saveData, clearSave } from './storage.ts';
 import { fetchAllLevels, saveLevelResult, isUnlocked } from './level-data.ts';
 import type { GameState, SaveData, LevelData, Settings } from './types.ts';
 import { createState, pushSnapshot, applyTransfer, applyGold, undo, resetState, isWin, scoreBreakdown } from './engine.ts';
-import { renderIntro, renderMap, renderLevelScreen, showToast } from './ui.ts';
+import { renderIntro, renderMap, renderLevelScreen, showToast, showConfirmModal } from './ui.ts';
 import { renderBowls, updateHeader, bindLevelControls, showVictoryModal, showHelpModal } from './level-ui.ts';
 import { showSettingsModal } from './settings-ui.ts';
 
@@ -174,12 +174,18 @@ function handleUndo(): void {
 
 function handleReset(): void {
   if (!state) return;
-  if (confirm('Restore this bowl to its original, broken state?')) {
-    resetState(state);
-    renderBowls(state, handleBowlTap);
-    updateHeader(state);
-    sound.playReset();
-  }
+  showConfirmModal(
+    'Reset Bowl',
+    'Restore this bowl to its original, broken state?',
+    'Reset',
+    'Cancel',
+    () => {
+      resetState(state!);
+      renderBowls(state!, handleBowlTap);
+      updateHeader(state!);
+      sound.playReset();
+    }
+  );
 }
 
 function toggleGoldMode(): void {

@@ -10,93 +10,31 @@
       "bowls": [
         [
           "celadon",
-          "celadon",
-          "rust"
-        ],
-        [],
-        [
-          "rust",
-          "cobalt"
-        ],
-        [
-          "rice",
-          "rice",
-          "cobalt"
-        ],
-        [
-          "rust",
-          "rust",
-          "celadon",
-          "cobalt"
-        ],
-        [
-          "rice",
-          "rice",
-          "celadon",
-          "cobalt"
-        ],
-        []
-      ],
-      "capacity": 4,
-      "goldDrops": 2,
-      "targetMoves": 11,
-      "optimalMoves": 9,
-      "palette": [
-        {
-          "id": "celadon",
-          "name": "Celadon Jade",
-          "hex": "#7fb069"
-        },
-        {
-          "id": "cobalt",
-          "name": "Cobalt Indigo",
-          "hex": "#3b5ba6"
-        },
-        {
-          "id": "rust",
-          "name": "Iron Rust",
-          "hex": "#b85c38"
-        },
-        {
-          "id": "rice",
-          "name": "Creamy Rice",
-          "hex": "#e8dcc5"
-        }
-      ]
-    },
-    {
-      "id": "sum-2",
-      "tier": "summer",
-      "index": 1,
-      "name": "Summer Firing \u2014 2",
-      "bowls": [
-        [
-          "celadon",
-          "celadon",
-          "celadon",
-          "rust"
+          "cobalt",
+          "rice"
         ],
         [
           "cobalt",
           "cobalt",
-          "rice",
+          "rust",
+          "rice"
+        ],
+        [
+          "rust",
+          "rust",
+          "rust",
           "cobalt"
         ],
         [
-          "rust"
-        ],
-        [
-          "rice",
-          "celadon",
-          "rust",
           "rice"
         ],
         [],
         [],
         [
-          "cobalt",
-          "rice",
-          "rust"
+          "celadon",
+          "celadon",
+          "celadon",
+          "rice"
         ]
       ],
       "capacity": 4,
@@ -127,23 +65,26 @@
       ]
     },
     {
-      "id": "sum-3",
+      "id": "sum-2",
       "tier": "summer",
-      "index": 2,
-      "name": "Summer Firing \u2014 3",
+      "index": 1,
+      "name": "Summer Firing \u2014 2",
       "bowls": [
         [
-          "celadon",
-          "celadon",
           "rust"
         ],
         [
           "cobalt",
-          "rust",
           "cobalt",
-          "rust"
+          "cobalt",
+          "celadon"
         ],
-        [],
+        [
+          "rice",
+          "celadon",
+          "cobalt",
+          "celadon"
+        ],
         [
           "rice",
           "rice",
@@ -154,10 +95,71 @@
           "rust"
         ],
         [
-          "rice",
+          "rust"
+        ],
+        [
+          "rust"
+        ]
+      ],
+      "capacity": 4,
+      "goldDrops": 2,
+      "targetMoves": 13,
+      "optimalMoves": 11,
+      "palette": [
+        {
+          "id": "celadon",
+          "name": "Celadon Jade",
+          "hex": "#7fb069"
+        },
+        {
+          "id": "cobalt",
+          "name": "Cobalt Indigo",
+          "hex": "#3b5ba6"
+        },
+        {
+          "id": "rust",
+          "name": "Iron Rust",
+          "hex": "#b85c38"
+        },
+        {
+          "id": "rice",
+          "name": "Creamy Rice",
+          "hex": "#e8dcc5"
+        }
+      ]
+    },
+    {
+      "id": "sum-3",
+      "tier": "summer",
+      "index": 2,
+      "name": "Summer Firing \u2014 3",
+      "bowls": [
+        [
           "cobalt",
-          "celadon",
+          "rice",
+          "rice",
+          "celadon"
+        ],
+        [
+          "cobalt",
+          "cobalt",
+          "celadon"
+        ],
+        [
+          "rust",
+          "rust",
+          "rust",
+          "celadon"
+        ],
+        [
+          "rice",
+          "rice",
+          "rust",
           "cobalt"
+        ],
+        [],
+        [
+          "celadon"
         ],
         []
       ],
@@ -197,31 +199,31 @@
         [
           "celadon",
           "celadon",
-          "rust"
-        ],
-        [
-          "cobalt",
-          "cobalt",
-          "cobalt",
-          "celadon"
-        ],
-        [],
-        [
-          "rice",
-          "rice",
           "celadon",
-          "rust"
-        ],
-        [
-          "rice",
-          "cobalt",
-          "rice",
-          "rust"
+          "rice"
         ],
         [],
         [
-          "rust"
-        ]
+          "cobalt"
+        ],
+        [
+          "cobalt",
+          "rice",
+          "cobalt"
+        ],
+        [
+          "rust",
+          "rust",
+          "rust",
+          "rice"
+        ],
+        [
+          "rust",
+          "celadon",
+          "rice",
+          "cobalt"
+        ],
+        []
       ],
       "capacity": 4,
       "goldDrops": 2,
@@ -257,33 +259,32 @@
       "name": "Summer Firing \u2014 5",
       "bowls": [
         [
-          "celadon",
-          "celadon",
+          "cobalt",
+          "cobalt",
+          "cobalt",
+          "rust"
+        ],
+        [],
+        [
+          "rust",
+          "rust",
           "cobalt",
           "rust"
         ],
         [
-          "cobalt",
-          "cobalt",
-          "cobalt",
+          "rice",
+          "rice",
+          "rice",
           "celadon"
         ],
         [],
         [
-          "rice",
-          "rust",
-          "rice"
-        ],
-        [],
-        [
-          "rust",
-          "rust",
-          "rice"
-        ],
-        [
           "celadon",
-          "rice"
-        ]
+          "celadon",
+          "rice",
+          "celadon"
+        ],
+        []
       ],
       "capacity": 4,
       "goldDrops": 2,
@@ -320,37 +321,37 @@
       "bowls": [
         [
           "celadon",
-          "celadon",
-          "celadon",
           "rust"
         ],
         [
           "cobalt",
+          "celadon",
           "rice",
           "rust"
         ],
         [
-          "rust"
-        ],
-        [
-          "rice",
-          "rice",
           "rust",
+          "cobalt",
+          "cobalt",
           "rice"
         ],
         [],
         [
-          "cobalt",
-          "cobalt",
-          "cobalt",
-          "celadon"
+          "rice",
+          "rust"
         ],
-        []
+        [],
+        [
+          "cobalt",
+          "celadon",
+          "celadon",
+          "rice"
+        ]
       ],
       "capacity": 4,
       "goldDrops": 2,
-      "targetMoves": 17,
-      "optimalMoves": 15,
+      "targetMoves": 13,
+      "optimalMoves": 11,
       "palette": [
         {
           "id": "celadon",
@@ -380,39 +381,38 @@
       "index": 6,
       "name": "Summer Firing \u2014 7",
       "bowls": [
+        [
+          "celadon",
+          "celadon",
+          "rice",
+          "cobalt"
+        ],
+        [],
+        [
+          "rust",
+          "rust",
+          "rust",
+          "cobalt"
+        ],
+        [
+          "rice",
+          "rice",
+          "rust",
+          "cobalt"
+        ],
         [],
         [],
         [
           "celadon",
-          "cobalt"
-        ],
-        [
-          "rust",
-          "rust",
-          "rust",
-          "cobalt"
-        ],
-        [
-          "rice",
-          "rice",
-          "rice",
-          "celadon"
-        ],
-        [
-          "rice",
           "celadon",
-          "celadon",
-          "cobalt"
-        ],
-        [
-          "rust",
+          "rice",
           "cobalt"
         ]
       ],
       "capacity": 4,
       "goldDrops": 2,
-      "targetMoves": 14,
-      "optimalMoves": 12,
+      "targetMoves": 10,
+      "optimalMoves": 8,
       "palette": [
         {
           "id": "celadon",
@@ -442,32 +442,33 @@
       "index": 7,
       "name": "Summer Firing \u2014 8",
       "bowls": [
-        [],
-        [],
-        [],
         [
-          "cobalt",
-          "cobalt",
           "rice",
-          "rust"
+          "rust",
+          "rice",
+          "celadon"
         ],
         [
-          "rice",
-          "rice",
+          "cobalt",
+          "cobalt",
+          "rice"
+        ],
+        [
+          "rust",
+          "rust",
           "rust",
           "cobalt"
         ],
         [
-          "celadon",
-          "rust",
           "rice",
-          "cobalt"
+          "celadon"
         ],
+        [],
+        [],
         [
           "celadon",
-          "celadon",
-          "celadon",
-          "rust"
+          "cobalt",
+          "celadon"
         ]
       ],
       "capacity": 4,
@@ -503,29 +504,29 @@
       "index": 8,
       "name": "Summer Firing \u2014 9",
       "bowls": [
-        [
-          "rust",
-          "rust",
-          "cobalt",
-          "celadon"
-        ],
-        [
-          "cobalt",
-          "celadon"
-        ],
-        [
-          "rust",
-          "celadon",
-          "rust",
-          "rice"
-        ],
-        [
-          "rice",
-          "rice",
-          "rice",
-          "cobalt"
-        ],
         [],
+        [
+          "cobalt",
+          "celadon"
+        ],
+        [
+          "rust",
+          "cobalt",
+          "cobalt",
+          "celadon"
+        ],
+        [
+          "rice",
+          "rice",
+          "rice",
+          "rust"
+        ],
+        [
+          "rice",
+          "rust",
+          "rust",
+          "celadon"
+        ],
         [
           "cobalt",
           "celadon"
@@ -534,8 +535,8 @@
       ],
       "capacity": 4,
       "goldDrops": 2,
-      "targetMoves": 13,
-      "optimalMoves": 11,
+      "targetMoves": 12,
+      "optimalMoves": 10,
       "palette": [
         {
           "id": "celadon",
@@ -565,39 +566,39 @@
       "index": 9,
       "name": "Summer Firing \u2014 10",
       "bowls": [
+        [
+          "celadon"
+        ],
+        [
+          "cobalt",
+          "cobalt",
+          "celadon"
+        ],
+        [
+          "rust",
+          "rust",
+          "rust",
+          "cobalt"
+        ],
+        [
+          "rice",
+          "rice",
+          "rice",
+          "celadon"
+        ],
         [],
         [
-          "cobalt",
-          "celadon"
-        ],
-        [
-          "rust",
-          "celadon"
-        ],
-        [
           "rice",
-          "rice",
-          "rust",
-          "celadon"
-        ],
-        [
-          "rust",
-          "cobalt",
-          "cobalt",
-          "rice"
-        ],
-        [
           "celadon",
           "cobalt",
-          "rice",
           "rust"
         ],
         []
       ],
       "capacity": 4,
       "goldDrops": 2,
-      "targetMoves": 14,
-      "optimalMoves": 12,
+      "targetMoves": 17,
+      "optimalMoves": 15,
       "palette": [
         {
           "id": "celadon",
@@ -628,9 +629,10 @@
       "name": "Summer Firing \u2014 11",
       "bowls": [
         [
-          "rust",
           "celadon",
-          "rice"
+          "celadon",
+          "celadon",
+          "cobalt"
         ],
         [],
         [
@@ -639,27 +641,25 @@
           "rust",
           "cobalt"
         ],
+        [
+          "rice",
+          "celadon",
+          "rust",
+          "cobalt"
+        ],
         [],
         [
-          "celadon",
-          "celadon",
-          "cobalt",
-          "rice"
+          "rice",
+          "rice",
+          "rice",
+          "cobalt"
         ],
-        [
-          "celadon",
-          "cobalt",
-          "cobalt",
-          "rice"
-        ],
-        [
-          "rice"
-        ]
+        []
       ],
       "capacity": 4,
       "goldDrops": 2,
-      "targetMoves": 17,
-      "optimalMoves": 15,
+      "targetMoves": 9,
+      "optimalMoves": 7,
       "palette": [
         {
           "id": "celadon",
@@ -689,35 +689,33 @@
       "index": 11,
       "name": "Summer Firing \u2014 12",
       "bowls": [
+        [],
         [
-          "celadon",
+          "cobalt",
+          "cobalt",
+          "rice",
+          "celadon"
+        ],
+        [
+          "rust",
+          "rust",
+          "rice",
           "rust"
         ],
         [
-          "cobalt",
-          "cobalt",
-          "cobalt",
-          "celadon"
-        ],
-        [
-          "rust",
-          "celadon"
-        ],
-        [
           "rice",
-          "rust",
-          "rice"
-        ],
-        [
-          "rust",
-          "rice"
+          "celadon",
+          "rice",
+          "celadon"
         ],
         [],
         [
           "cobalt",
-          "celadon",
-          "rice"
-        ]
+          "cobalt",
+          "rust",
+          "celadon"
+        ],
+        []
       ],
       "capacity": 4,
       "goldDrops": 2,
@@ -755,13 +753,12 @@
         [
           "celadon",
           "celadon",
-          "celadon",
           "cobalt"
         ],
         [
           "cobalt",
           "cobalt",
-          "rice"
+          "celadon"
         ],
         [
           "rust",
@@ -769,22 +766,23 @@
           "rust",
           "rice"
         ],
+        [
+          "rice",
+          "rice",
+          "cobalt"
+        ],
+        [],
         [],
         [
           "rust",
-          "celadon",
-          "cobalt",
-          "rice"
-        ],
-        [],
-        [
-          "rice"
+          "rice",
+          "celadon"
         ]
       ],
       "capacity": 4,
       "goldDrops": 2,
-      "targetMoves": 17,
-      "optimalMoves": 15,
+      "targetMoves": 9,
+      "optimalMoves": 7,
       "palette": [
         {
           "id": "celadon",
@@ -815,37 +813,39 @@
       "name": "Summer Firing \u2014 14",
       "bowls": [
         [
-          "celadon",
-          "celadon",
-          "rust",
           "rice"
         ],
         [
           "cobalt",
           "cobalt",
-          "rice",
-          "cobalt"
+          "rice"
         ],
         [
           "rust",
           "rust",
           "rust",
-          "celadon"
+          "cobalt"
         ],
-        [],
-        [],
         [],
         [
           "celadon",
-          "rice",
+          "celadon",
+          "celadon",
+          "rust"
+        ],
+        [
+          "rice"
+        ],
+        [
+          "celadon",
           "cobalt",
           "rice"
         ]
       ],
       "capacity": 4,
       "goldDrops": 2,
-      "targetMoves": 12,
-      "optimalMoves": 10,
+      "targetMoves": 17,
+      "optimalMoves": 15,
       "palette": [
         {
           "id": "celadon",
@@ -878,30 +878,30 @@
         [
           "celadon",
           "celadon",
-          "celadon",
-          "rice"
-        ],
-        [
-          "cobalt",
-          "cobalt",
-          "cobalt",
-          "rust"
-        ],
-        [
-          "rust"
+          "rust",
+          "cobalt"
         ],
         [],
+        [
+          "rust",
+          "rust",
+          "rust",
+          "celadon"
+        ],
+        [
+          "rice",
+          "rice",
+          "celadon",
+          "cobalt"
+        ],
         [],
         [
-          "celadon",
-          "rice",
-          "rice",
           "cobalt"
         ],
         [
-          "rust",
           "rice",
-          "rust"
+          "rice",
+          "cobalt"
         ]
       ],
       "capacity": 4,

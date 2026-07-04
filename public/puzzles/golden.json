@@ -11,66 +11,67 @@
         [
           "celadon",
           "celadon",
-          "cobalt",
-          "cobalt",
-          "rust",
-          "sakura"
-        ],
-        [],
-        [
-          "rust",
-          "rust",
-          "rust",
-          "rust",
-          "rust",
-          "rice"
-        ],
-        [
-          "rice",
-          "cobalt",
-          "cobalt",
-          "cobalt",
+          "celadon",
+          "sakura",
           "cobalt"
         ],
         [
-          "tenmoku",
-          "tenmoku",
-          "sakura",
-          "sakura",
-          "sakura"
+          "cobalt",
+          "cobalt",
+          "cobalt",
+          "celadon"
         ],
         [
+          "rust",
+          "rust",
+          "rust",
+          "rust",
+          "celadon"
+        ],
+        [
+          "rice",
+          "rice",
           "sakura",
           "sakura",
+          "cobalt"
+        ],
+        [
+          "tenmoku"
+        ],
+        [
+          "tenmoku",
           "tenmoku"
         ],
         [
           "gold",
-          "celadon",
-          "rice"
+          "gold",
+          "gold",
+          "gold",
+          "rust",
+          "cobalt"
         ],
         [
-          "tenmoku",
-          "tenmoku",
-          "tenmoku",
-          "celadon",
-          "gold"
-        ],
-        [
-          "celadon",
-          "celadon",
-          "rice",
-          "rice",
-          "rice"
+          "sakura",
+          "sakura",
+          "sakura",
+          "gold",
+          "gold",
+          "celadon"
         ],
         [],
-        [
-          "gold",
-          "gold",
-          "gold",
-          "gold"
-        ],
         [],
+        [
+          "rust",
+          "rice",
+          "rice",
+          "rice",
+          "rice",
+          "tenmoku"
+        ],
+        [
+          "tenmoku",
+          "tenmoku"
+        ],
         []
       ],
       "capacity": 6,
@@ -125,71 +126,70 @@
           "celadon",
           "celadon",
           "celadon",
-          "rice",
-          "rice",
-          "tenmoku"
-        ],
-        [
-          "cobalt",
-          "cobalt",
-          "cobalt",
-          "cobalt",
-          "cobalt",
           "rust"
         ],
         [
-          "rust",
-          "rust",
           "cobalt",
-          "gold",
-          "tenmoku"
-        ],
-        [
-          "rice",
-          "rice",
-          "rice",
-          "rice",
-          "celadon",
-          "tenmoku"
-        ],
-        [],
-        [
-          "sakura",
-          "sakura",
-          "sakura",
-          "sakura",
-          "sakura",
+          "cobalt",
+          "tenmoku",
+          "tenmoku",
+          "tenmoku",
           "gold"
         ],
         [
-          "gold",
-          "gold",
-          "gold",
-          "gold",
+          "rust",
+          "rust",
+          "rust",
+          "rust",
+          "rust",
+          "rice"
+        ],
+        [
+          "rice",
+          "rice",
+          "rice",
           "sakura",
           "celadon"
         ],
-        [],
-        [],
         [
-          "rust",
-          "rust",
-          "rust",
-          "celadon",
-          "tenmoku"
+          "tenmoku",
+          "tenmoku",
+          "tenmoku",
+          "rice",
+          "celadon"
         ],
         [
-          "tenmoku"
+          "sakura",
+          "sakura",
+          "sakura",
+          "celadon"
+        ],
+        [
+          "gold",
+          "gold",
+          "gold",
+          "gold",
+          "gold",
+          "sakura"
         ],
         [],
         [
-          "tenmoku"
-        ]
+          "cobalt",
+          "cobalt",
+          "cobalt",
+          "cobalt",
+          "sakura",
+          "rice"
+        ],
+        [],
+        [],
+        [],
+        []
       ],
       "capacity": 6,
       "goldDrops": 0,
-      "targetMoves": 17,
-      "optimalMoves": 16,
+      "targetMoves": 14,
+      "optimalMoves": 13,
       "palette": [
         {
           "id": "celadon",
@@ -237,67 +237,66 @@
         [
           "celadon",
           "celadon",
-          "celadon",
-          "celadon",
-          "celadon",
+          "gold",
+          "sakura",
           "gold"
         ],
         [
           "cobalt",
           "cobalt",
-          "sakura",
+          "cobalt",
+          "cobalt",
           "celadon",
-          "gold"
-        ],
-        [
-          "rust",
-          "rust",
-          "rust",
-          "rust",
-          "gold"
-        ],
-        [
-          "rice",
-          "rice",
-          "rice",
-          "rice",
-          "rice",
           "rust"
         ],
         [
-          "tenmoku",
-          "tenmoku",
-          "tenmoku",
-          "tenmoku",
-          "tenmoku",
-          "rust"
+          "rust",
+          "rust",
+          "rust",
+          "rust",
+          "rust",
+          "gold"
         ],
         [
-          "sakura",
-          "sakura",
-          "sakura",
-          "sakura",
+          "rice",
+          "rice",
+          "rice",
+          "rice",
+          "tenmoku",
+          "celadon"
+        ],
+        [
+          "tenmoku",
+          "tenmoku",
+          "tenmoku",
+          "tenmoku",
           "tenmoku",
           "rice"
         ],
         [],
-        [],
-        [],
         [
-          "gold"
-        ],
-        [
-          "cobalt",
-          "cobalt",
-          "cobalt",
-          "cobalt",
+          "gold",
+          "gold",
           "sakura",
+          "sakura",
+          "sakura"
+        ],
+        [
+          "sakura",
+          "sakura"
+        ],
+        [
+          "cobalt",
+          "cobalt",
+          "celadon",
+          "rice",
+          "celadon",
           "gold"
         ],
         [],
-        [
-          "gold"
-        ]
+        [],
+        [],
+        []
       ],
       "capacity": 6,
       "goldDrops": 0,
@@ -349,68 +348,67 @@
       "bowls": [
         [
           "celadon",
-          "celadon",
-          "celadon",
-          "celadon",
-          "celadon",
-          "gold"
+          "celadon"
         ],
         [
           "cobalt",
           "cobalt",
           "cobalt",
           "cobalt",
-          "cobalt",
-          "rice"
-        ],
-        [
-          "rust",
-          "rust",
-          "rust",
-          "rust",
-          "tenmoku"
-        ],
-        [
-          "rice",
-          "rice",
-          "rice",
           "sakura",
-          "sakura",
+          "celadon"
+        ],
+        [
+          "rust",
+          "rust",
+          "rust",
+          "rice",
           "rust"
         ],
-        [],
         [
-          "sakura",
-          "sakura",
-          "sakura",
-          "sakura",
           "rice",
-          "tenmoku"
-        ],
-        [
-          "gold",
-          "gold",
-          "gold",
-          "gold",
-          "gold",
-          "cobalt"
-        ],
-        [],
-        [],
-        [],
-        [
-          "celadon",
           "rice",
-          "tenmoku"
-        ],
-        [
-          "tenmoku"
+          "rice",
+          "cobalt",
+          "sakura"
         ],
         [
           "tenmoku",
+          "tenmoku",
+          "tenmoku",
           "rust",
-          "tenmoku"
-        ]
+          "celadon",
+          "rice"
+        ],
+        [
+          "sakura",
+          "sakura",
+          "sakura",
+          "sakura",
+          "tenmoku",
+          "cobalt"
+        ],
+        [
+          "gold",
+          "gold",
+          "gold",
+          "rice",
+          "celadon",
+          "celadon"
+        ],
+        [],
+        [
+          "gold",
+          "gold",
+          "gold",
+          "tenmoku",
+          "tenmoku",
+          "rust"
+        ],
+        [],
+        [],
+        [],
+        []
       ],
       "capacity": 6,
       "goldDrops": 0,
@@ -461,67 +459,66 @@
       "name": "Golden Age \u2014 5",
       "bowls": [
         [
-          "celadon"
+          "celadon",
+          "celadon",
+          "sakura"
         ],
         [
           "cobalt",
           "cobalt",
           "cobalt",
           "cobalt",
-          "cobalt",
+          "rice",
           "sakura"
         ],
         [
           "rust",
           "rust",
           "rust",
-          "rice",
-          "rice",
-          "tenmoku"
-        ],
-        [
-          "rice",
           "celadon",
+          "celadon"
+        ],
+        [
           "rice",
-          "celadon"
-        ],
-        [
-          "tenmoku",
-          "tenmoku",
-          "tenmoku",
-          "tenmoku",
-          "tenmoku",
-          "celadon"
-        ],
-        [
-          "sakura",
-          "sakura",
-          "sakura",
-          "sakura",
           "rice",
-          "celadon"
+          "rice",
+          "rust"
         ],
+        [
+          "tenmoku",
+          "tenmoku",
+          "tenmoku",
+          "tenmoku",
+          "rice",
+          "cobalt"
+        ],
+        [],
         [
           "gold",
           "gold",
           "gold",
           "gold",
+          "sakura",
+          "celadon"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+          "tenmoku",
+          "tenmoku",
           "cobalt",
-          "rice"
-        ],
-        [],
-        [],
-        [],
-        [
-          "celadon"
-        ],
-        [],
-        [
-          "rust",
-          "rust",
-          "rust",
+          "rice",
           "gold",
-          "gold",
+          "gold"
+        ],
+        [
+          "celadon",
+          "rust",
+          "rust",
+          "sakura",
+          "sakura",
           "sakura"
         ]
       ],
