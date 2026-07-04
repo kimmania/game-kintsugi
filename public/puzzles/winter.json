@@ -1,0 +1,929 @@
+{
+  "tier": "winter",
+  "season": "Winter Stillness",
+  "levels": [
+    {
+      "id": "win-1",
+      "tier": "winter",
+      "index": 0,
+      "name": "Winter Stillness \u2014 1",
+      "bowls": [
+        [
+          "celadon",
+          "tenmoku",
+          "tenmoku",
+          "tenmoku",
+          "rust"
+        ],
+        [
+          "cobalt",
+          "cobalt",
+          "cobalt",
+          "tenmoku"
+        ],
+        [
+          "rust",
+          "rust",
+          "rust",
+          "cobalt"
+        ],
+        [
+          "rice",
+          "rice",
+          "rice",
+          "rice",
+          "celadon"
+        ],
+        [
+          "tenmoku",
+          "celadon",
+          "celadon",
+          "cobalt"
+        ],
+        [
+          "sakura",
+          "sakura",
+          "sakura",
+          "sakura",
+          "rice"
+        ],
+        [],
+        [],
+        [],
+        [
+          "celadon",
+          "sakura",
+          "rust"
+        ],
+        []
+      ],
+      "capacity": 5,
+      "goldDrops": 1,
+      "targetMoves": 12,
+      "optimalMoves": 11,
+      "palette": [
+        {
+          "id": "celadon",
+          "name": "Celadon Jade",
+          "hex": "#7fb069"
+        },
+        {
+          "id": "cobalt",
+          "name": "Cobalt Indigo",
+          "hex": "#3b5ba6"
+        },
+        {
+          "id": "rust",
+          "name": "Iron Rust",
+          "hex": "#b85c38"
+        },
+        {
+          "id": "rice",
+          "name": "Creamy Rice",
+          "hex": "#e8dcc5"
+        },
+        {
+          "id": "tenmoku",
+          "name": "Tenmoku Black",
+          "hex": "#2d2a26"
+        },
+        {
+          "id": "sakura",
+          "name": "Sakura Pink",
+          "hex": "#d68c9f"
+        }
+      ]
+    },
+    {
+      "id": "win-2",
+      "tier": "winter",
+      "index": 1,
+      "name": "Winter Stillness \u2014 2",
+      "bowls": [
+        [
+          "celadon",
+          "celadon",
+          "sakura"
+        ],
+        [
+          "cobalt",
+          "cobalt",
+          "cobalt",
+          "sakura",
+          "rice"
+        ],
+        [
+          "rust",
+          "rust",
+          "cobalt",
+          "cobalt",
+          "celadon"
+        ],
+        [
+          "rice",
+          "rice",
+          "rice",
+          "sakura",
+          "celadon"
+        ],
+        [
+          "tenmoku",
+          "tenmoku",
+          "tenmoku",
+          "tenmoku",
+          "rust"
+        ],
+        [],
+        [],
+        [
+          "sakura"
+        ],
+        [
+          "rust",
+          "rust",
+          "tenmoku",
+          "rice",
+          "celadon"
+        ],
+        [
+          "sakura"
+        ],
+        []
+      ],
+      "capacity": 5,
+      "goldDrops": 1,
+      "targetMoves": 18,
+      "optimalMoves": 17,
+      "palette": [
+        {
+          "id": "celadon",
+          "name": "Celadon Jade",
+          "hex": "#7fb069"
+        },
+        {
+          "id": "cobalt",
+          "name": "Cobalt Indigo",
+          "hex": "#3b5ba6"
+        },
+        {
+          "id": "rust",
+          "name": "Iron Rust",
+          "hex": "#b85c38"
+        },
+        {
+          "id": "rice",
+          "name": "Creamy Rice",
+          "hex": "#e8dcc5"
+        },
+        {
+          "id": "tenmoku",
+          "name": "Tenmoku Black",
+          "hex": "#2d2a26"
+        },
+        {
+          "id": "sakura",
+          "name": "Sakura Pink",
+          "hex": "#d68c9f"
+        }
+      ]
+    },
+    {
+      "id": "win-3",
+      "tier": "winter",
+      "index": 2,
+      "name": "Winter Stillness \u2014 3",
+      "bowls": [
+        [
+          "celadon",
+          "celadon",
+          "celadon",
+          "rice",
+          "sakura"
+        ],
+        [
+          "cobalt",
+          "cobalt",
+          "cobalt",
+          "rust"
+        ],
+        [],
+        [
+          "rice",
+          "rice",
+          "sakura",
+          "sakura",
+          "rust"
+        ],
+        [
+          "tenmoku"
+        ],
+        [
+          "sakura",
+          "rice",
+          "rice",
+          "tenmoku",
+          "rust"
+        ],
+        [],
+        [
+          "sakura",
+          "rust",
+          "rust",
+          "tenmoku",
+          "cobalt"
+        ],
+        [
+          "tenmoku",
+          "celadon",
+          "celadon",
+          "cobalt"
+        ],
+        [
+          "tenmoku"
+        ],
+        []
+      ],
+      "capacity": 5,
+      "goldDrops": 1,
+      "targetMoves": 18,
+      "optimalMoves": 17,
+      "palette": [
+        {
+          "id": "celadon",
+          "name": "Celadon Jade",
+          "hex": "#7fb069"
+        },
+        {
+          "id": "cobalt",
+          "name": "Cobalt Indigo",
+          "hex": "#3b5ba6"
+        },
+        {
+          "id": "rust",
+          "name": "Iron Rust",
+          "hex": "#b85c38"
+        },
+        {
+          "id": "rice",
+          "name": "Creamy Rice",
+          "hex": "#e8dcc5"
+        },
+        {
+          "id": "tenmoku",
+          "name": "Tenmoku Black",
+          "hex": "#2d2a26"
+        },
+        {
+          "id": "sakura",
+          "name": "Sakura Pink",
+          "hex": "#d68c9f"
+        }
+      ]
+    },
+    {
+      "id": "win-4",
+      "tier": "winter",
+      "index": 3,
+      "name": "Winter Stillness \u2014 4",
+      "bowls": [
+        [
+          "celadon",
+          "celadon",
+          "celadon",
+          "rust",
+          "sakura"
+        ],
+        [],
+        [
+          "rust",
+          "cobalt",
+          "cobalt",
+          "rice",
+          "sakura"
+        ],
+        [
+          "rice",
+          "rice",
+          "rust",
+          "rust",
+          "rice"
+        ],
+        [
+          "tenmoku",
+          "tenmoku",
+          "tenmoku",
+          "sakura",
+          "tenmoku"
+        ],
+        [],
+        [
+          "celadon",
+          "celadon",
+          "rice",
+          "sakura"
+        ],
+        [
+          "cobalt",
+          "cobalt",
+          "cobalt",
+          "tenmoku",
+          "rust"
+        ],
+        [],
+        [
+          "sakura"
+        ],
+        []
+      ],
+      "capacity": 5,
+      "goldDrops": 1,
+      "targetMoves": 18,
+      "optimalMoves": 17,
+      "palette": [
+        {
+          "id": "celadon",
+          "name": "Celadon Jade",
+          "hex": "#7fb069"
+        },
+        {
+          "id": "cobalt",
+          "name": "Cobalt Indigo",
+          "hex": "#3b5ba6"
+        },
+        {
+          "id": "rust",
+          "name": "Iron Rust",
+          "hex": "#b85c38"
+        },
+        {
+          "id": "rice",
+          "name": "Creamy Rice",
+          "hex": "#e8dcc5"
+        },
+        {
+          "id": "tenmoku",
+          "name": "Tenmoku Black",
+          "hex": "#2d2a26"
+        },
+        {
+          "id": "sakura",
+          "name": "Sakura Pink",
+          "hex": "#d68c9f"
+        }
+      ]
+    },
+    {
+      "id": "win-5",
+      "tier": "winter",
+      "index": 4,
+      "name": "Winter Stillness \u2014 5",
+      "bowls": [
+        [
+          "celadon",
+          "celadon",
+          "sakura"
+        ],
+        [
+          "cobalt",
+          "cobalt",
+          "cobalt",
+          "cobalt",
+          "tenmoku"
+        ],
+        [
+          "rust",
+          "rust",
+          "celadon"
+        ],
+        [
+          "rice",
+          "rice",
+          "rice",
+          "rice",
+          "cobalt"
+        ],
+        [
+          "tenmoku",
+          "tenmoku",
+          "tenmoku",
+          "rust",
+          "sakura"
+        ],
+        [
+          "sakura",
+          "sakura",
+          "sakura",
+          "celadon"
+        ],
+        [],
+        [
+          "rice",
+          "tenmoku",
+          "rust",
+          "rust",
+          "celadon"
+        ],
+        [],
+        [],
+        []
+      ],
+      "capacity": 5,
+      "goldDrops": 1,
+      "targetMoves": 12,
+      "optimalMoves": 11,
+      "palette": [
+        {
+          "id": "celadon",
+          "name": "Celadon Jade",
+          "hex": "#7fb069"
+        },
+        {
+          "id": "cobalt",
+          "name": "Cobalt Indigo",
+          "hex": "#3b5ba6"
+        },
+        {
+          "id": "rust",
+          "name": "Iron Rust",
+          "hex": "#b85c38"
+        },
+        {
+          "id": "rice",
+          "name": "Creamy Rice",
+          "hex": "#e8dcc5"
+        },
+        {
+          "id": "tenmoku",
+          "name": "Tenmoku Black",
+          "hex": "#2d2a26"
+        },
+        {
+          "id": "sakura",
+          "name": "Sakura Pink",
+          "hex": "#d68c9f"
+        }
+      ]
+    },
+    {
+      "id": "win-6",
+      "tier": "winter",
+      "index": 5,
+      "name": "Winter Stillness \u2014 6",
+      "bowls": [
+        [
+          "celadon",
+          "celadon",
+          "tenmoku",
+          "tenmoku",
+          "rust"
+        ],
+        [
+          "cobalt",
+          "cobalt",
+          "rust",
+          "rice",
+          "sakura"
+        ],
+        [
+          "rust",
+          "rust",
+          "rust",
+          "sakura"
+        ],
+        [
+          "rice",
+          "rice",
+          "celadon"
+        ],
+        [
+          "tenmoku",
+          "tenmoku",
+          "tenmoku",
+          "rice",
+          "celadon"
+        ],
+        [
+          "sakura",
+          "sakura",
+          "celadon"
+        ],
+        [],
+        [],
+        [],
+        [
+          "cobalt",
+          "cobalt",
+          "cobalt",
+          "rice",
+          "sakura"
+        ],
+        []
+      ],
+      "capacity": 5,
+      "goldDrops": 1,
+      "targetMoves": 14,
+      "optimalMoves": 13,
+      "palette": [
+        {
+          "id": "celadon",
+          "name": "Celadon Jade",
+          "hex": "#7fb069"
+        },
+        {
+          "id": "cobalt",
+          "name": "Cobalt Indigo",
+          "hex": "#3b5ba6"
+        },
+        {
+          "id": "rust",
+          "name": "Iron Rust",
+          "hex": "#b85c38"
+        },
+        {
+          "id": "rice",
+          "name": "Creamy Rice",
+          "hex": "#e8dcc5"
+        },
+        {
+          "id": "tenmoku",
+          "name": "Tenmoku Black",
+          "hex": "#2d2a26"
+        },
+        {
+          "id": "sakura",
+          "name": "Sakura Pink",
+          "hex": "#d68c9f"
+        }
+      ]
+    },
+    {
+      "id": "win-7",
+      "tier": "winter",
+      "index": 6,
+      "name": "Winter Stillness \u2014 7",
+      "bowls": [
+        [
+          "celadon",
+          "rice",
+          "celadon",
+          "rust",
+          "rice"
+        ],
+        [
+          "cobalt",
+          "cobalt",
+          "cobalt",
+          "cobalt",
+          "tenmoku"
+        ],
+        [
+          "rust",
+          "rust",
+          "rust",
+          "rust",
+          "rice"
+        ],
+        [
+          "rice"
+        ],
+        [
+          "tenmoku",
+          "celadon",
+          "celadon",
+          "rice"
+        ],
+        [
+          "sakura",
+          "tenmoku",
+          "tenmoku",
+          "tenmoku",
+          "sakura"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+          "cobalt",
+          "sakura",
+          "sakura",
+          "sakura",
+          "celadon"
+        ]
+      ],
+      "capacity": 5,
+      "goldDrops": 1,
+      "targetMoves": 18,
+      "optimalMoves": 17,
+      "palette": [
+        {
+          "id": "celadon",
+          "name": "Celadon Jade",
+          "hex": "#7fb069"
+        },
+        {
+          "id": "cobalt",
+          "name": "Cobalt Indigo",
+          "hex": "#3b5ba6"
+        },
+        {
+          "id": "rust",
+          "name": "Iron Rust",
+          "hex": "#b85c38"
+        },
+        {
+          "id": "rice",
+          "name": "Creamy Rice",
+          "hex": "#e8dcc5"
+        },
+        {
+          "id": "tenmoku",
+          "name": "Tenmoku Black",
+          "hex": "#2d2a26"
+        },
+        {
+          "id": "sakura",
+          "name": "Sakura Pink",
+          "hex": "#d68c9f"
+        }
+      ]
+    },
+    {
+      "id": "win-8",
+      "tier": "winter",
+      "index": 7,
+      "name": "Winter Stillness \u2014 8",
+      "bowls": [
+        [
+          "celadon"
+        ],
+        [
+          "cobalt",
+          "cobalt",
+          "cobalt",
+          "sakura",
+          "rice"
+        ],
+        [
+          "celadon",
+          "celadon",
+          "rust",
+          "celadon"
+        ],
+        [
+          "rice",
+          "rice",
+          "rust",
+          "rust",
+          "cobalt"
+        ],
+        [
+          "tenmoku",
+          "tenmoku",
+          "rice",
+          "rice",
+          "rust"
+        ],
+        [
+          "sakura",
+          "sakura",
+          "sakura",
+          "rust",
+          "celadon"
+        ],
+        [],
+        [
+          "tenmoku",
+          "tenmoku",
+          "tenmoku",
+          "cobalt",
+          "sakura"
+        ],
+        [],
+        [],
+        []
+      ],
+      "capacity": 5,
+      "goldDrops": 1,
+      "targetMoves": 18,
+      "optimalMoves": 17,
+      "palette": [
+        {
+          "id": "celadon",
+          "name": "Celadon Jade",
+          "hex": "#7fb069"
+        },
+        {
+          "id": "cobalt",
+          "name": "Cobalt Indigo",
+          "hex": "#3b5ba6"
+        },
+        {
+          "id": "rust",
+          "name": "Iron Rust",
+          "hex": "#b85c38"
+        },
+        {
+          "id": "rice",
+          "name": "Creamy Rice",
+          "hex": "#e8dcc5"
+        },
+        {
+          "id": "tenmoku",
+          "name": "Tenmoku Black",
+          "hex": "#2d2a26"
+        },
+        {
+          "id": "sakura",
+          "name": "Sakura Pink",
+          "hex": "#d68c9f"
+        }
+      ]
+    },
+    {
+      "id": "win-9",
+      "tier": "winter",
+      "index": 8,
+      "name": "Winter Stillness \u2014 9",
+      "bowls": [
+        [],
+        [
+          "cobalt",
+          "rice",
+          "rice",
+          "tenmoku"
+        ],
+        [
+          "rust",
+          "cobalt",
+          "cobalt",
+          "cobalt",
+          "celadon"
+        ],
+        [
+          "rice",
+          "rice",
+          "rice",
+          "celadon"
+        ],
+        [
+          "tenmoku",
+          "tenmoku",
+          "tenmoku",
+          "celadon"
+        ],
+        [
+          "sakura",
+          "sakura",
+          "sakura",
+          "sakura",
+          "cobalt"
+        ],
+        [
+          "celadon",
+          "celadon",
+          "tenmoku"
+        ],
+        [
+          "rust",
+          "rust",
+          "rust",
+          "rust",
+          "sakura"
+        ],
+        [],
+        [],
+        []
+      ],
+      "capacity": 5,
+      "goldDrops": 1,
+      "targetMoves": 12,
+      "optimalMoves": 11,
+      "palette": [
+        {
+          "id": "celadon",
+          "name": "Celadon Jade",
+          "hex": "#7fb069"
+        },
+        {
+          "id": "cobalt",
+          "name": "Cobalt Indigo",
+          "hex": "#3b5ba6"
+        },
+        {
+          "id": "rust",
+          "name": "Iron Rust",
+          "hex": "#b85c38"
+        },
+        {
+          "id": "rice",
+          "name": "Creamy Rice",
+          "hex": "#e8dcc5"
+        },
+        {
+          "id": "tenmoku",
+          "name": "Tenmoku Black",
+          "hex": "#2d2a26"
+        },
+        {
+          "id": "sakura",
+          "name": "Sakura Pink",
+          "hex": "#d68c9f"
+        }
+      ]
+    },
+    {
+      "id": "win-10",
+      "tier": "winter",
+      "index": 9,
+      "name": "Winter Stillness \u2014 10",
+      "bowls": [
+        [
+          "celadon",
+          "tenmoku",
+          "tenmoku",
+          "rice"
+        ],
+        [
+          "cobalt",
+          "cobalt",
+          "cobalt",
+          "cobalt",
+          "sakura"
+        ],
+        [
+          "rice"
+        ],
+        [],
+        [
+          "tenmoku",
+          "celadon",
+          "sakura",
+          "tenmoku",
+          "rice"
+        ],
+        [
+          "sakura",
+          "sakura",
+          "sakura",
+          "rice"
+        ],
+        [
+          "rust",
+          "celadon",
+          "celadon",
+          "celadon",
+          "tenmoku"
+        ],
+        [
+          "rust",
+          "rust",
+          "rust",
+          "rust",
+          "cobalt"
+        ],
+        [],
+        [
+          "rice"
+        ],
+        []
+      ],
+      "capacity": 5,
+      "goldDrops": 1,
+      "targetMoves": 18,
+      "optimalMoves": 17,
+      "palette": [
+        {
+          "id": "celadon",
+          "name": "Celadon Jade",
+          "hex": "#7fb069"
+        },
+        {
+          "id": "cobalt",
+          "name": "Cobalt Indigo",
+          "hex": "#3b5ba6"
+        },
+        {
+          "id": "rust",
+          "name": "Iron Rust",
+          "hex": "#b85c38"
+        },
+        {
+          "id": "rice",
+          "name": "Creamy Rice",
+          "hex": "#e8dcc5"
+        },
+        {
+          "id": "tenmoku",
+          "name": "Tenmoku Black",
+          "hex": "#2d2a26"
+        },
+        {
+          "id": "sakura",
+          "name": "Sakura Pink",
+          "hex": "#d68c9f"
+        }
+      ]
+    }
+  ]
+}

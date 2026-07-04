@@ -1,0 +1,940 @@
+{
+  "tier": "summer",
+  "season": "Summer Firing",
+  "levels": [
+    {
+      "id": "sum-1",
+      "tier": "summer",
+      "index": 0,
+      "name": "Summer Firing \u2014 1",
+      "bowls": [
+        [
+          "celadon",
+          "celadon",
+          "celadon",
+          "cobalt"
+        ],
+        [
+          "cobalt",
+          "cobalt",
+          "cobalt",
+          "celadon"
+        ],
+        [
+          "rust"
+        ],
+        [
+          "rice",
+          "rice",
+          "rice",
+          "rust"
+        ],
+        [],
+        [
+          "rust"
+        ],
+        [
+          "rice",
+          "rust"
+        ]
+      ],
+      "capacity": 4,
+      "goldDrops": 2,
+      "targetMoves": 17,
+      "optimalMoves": 15,
+      "palette": [
+        {
+          "id": "celadon",
+          "name": "Celadon Jade",
+          "hex": "#7fb069"
+        },
+        {
+          "id": "cobalt",
+          "name": "Cobalt Indigo",
+          "hex": "#3b5ba6"
+        },
+        {
+          "id": "rust",
+          "name": "Iron Rust",
+          "hex": "#b85c38"
+        },
+        {
+          "id": "rice",
+          "name": "Creamy Rice",
+          "hex": "#e8dcc5"
+        }
+      ]
+    },
+    {
+      "id": "sum-2",
+      "tier": "summer",
+      "index": 1,
+      "name": "Summer Firing \u2014 2",
+      "bowls": [
+        [
+          "celadon",
+          "celadon",
+          "cobalt",
+          "rice"
+        ],
+        [
+          "cobalt",
+          "cobalt",
+          "rust"
+        ],
+        [
+          "rust",
+          "rust",
+          "rice",
+          "rust"
+        ],
+        [
+          "rice",
+          "cobalt",
+          "celadon"
+        ],
+        [],
+        [
+          "rice",
+          "celadon"
+        ],
+        []
+      ],
+      "capacity": 4,
+      "goldDrops": 2,
+      "targetMoves": 13,
+      "optimalMoves": 11,
+      "palette": [
+        {
+          "id": "celadon",
+          "name": "Celadon Jade",
+          "hex": "#7fb069"
+        },
+        {
+          "id": "cobalt",
+          "name": "Cobalt Indigo",
+          "hex": "#3b5ba6"
+        },
+        {
+          "id": "rust",
+          "name": "Iron Rust",
+          "hex": "#b85c38"
+        },
+        {
+          "id": "rice",
+          "name": "Creamy Rice",
+          "hex": "#e8dcc5"
+        }
+      ]
+    },
+    {
+      "id": "sum-3",
+      "tier": "summer",
+      "index": 2,
+      "name": "Summer Firing \u2014 3",
+      "bowls": [
+        [
+          "celadon",
+          "celadon",
+          "celadon",
+          "cobalt"
+        ],
+        [
+          "cobalt",
+          "rice"
+        ],
+        [
+          "rust",
+          "cobalt",
+          "cobalt",
+          "rice"
+        ],
+        [
+          "rice"
+        ],
+        [],
+        [
+          "rust",
+          "rust",
+          "rust",
+          "celadon"
+        ],
+        [
+          "rice"
+        ]
+      ],
+      "capacity": 4,
+      "goldDrops": 2,
+      "targetMoves": 17,
+      "optimalMoves": 15,
+      "palette": [
+        {
+          "id": "celadon",
+          "name": "Celadon Jade",
+          "hex": "#7fb069"
+        },
+        {
+          "id": "cobalt",
+          "name": "Cobalt Indigo",
+          "hex": "#3b5ba6"
+        },
+        {
+          "id": "rust",
+          "name": "Iron Rust",
+          "hex": "#b85c38"
+        },
+        {
+          "id": "rice",
+          "name": "Creamy Rice",
+          "hex": "#e8dcc5"
+        }
+      ]
+    },
+    {
+      "id": "sum-4",
+      "tier": "summer",
+      "index": 3,
+      "name": "Summer Firing \u2014 4",
+      "bowls": [
+        [
+          "celadon",
+          "rice",
+          "cobalt",
+          "rust"
+        ],
+        [
+          "cobalt",
+          "cobalt",
+          "rust"
+        ],
+        [
+          "rust"
+        ],
+        [
+          "rice",
+          "rice",
+          "rice",
+          "cobalt"
+        ],
+        [],
+        [
+          "celadon",
+          "celadon",
+          "celadon",
+          "rust"
+        ],
+        []
+      ],
+      "capacity": 4,
+      "goldDrops": 2,
+      "targetMoves": 17,
+      "optimalMoves": 15,
+      "palette": [
+        {
+          "id": "celadon",
+          "name": "Celadon Jade",
+          "hex": "#7fb069"
+        },
+        {
+          "id": "cobalt",
+          "name": "Cobalt Indigo",
+          "hex": "#3b5ba6"
+        },
+        {
+          "id": "rust",
+          "name": "Iron Rust",
+          "hex": "#b85c38"
+        },
+        {
+          "id": "rice",
+          "name": "Creamy Rice",
+          "hex": "#e8dcc5"
+        }
+      ]
+    },
+    {
+      "id": "sum-5",
+      "tier": "summer",
+      "index": 4,
+      "name": "Summer Firing \u2014 5",
+      "bowls": [
+        [
+          "celadon",
+          "celadon",
+          "rice",
+          "cobalt"
+        ],
+        [],
+        [
+          "rust",
+          "cobalt",
+          "rust"
+        ],
+        [
+          "rice",
+          "cobalt"
+        ],
+        [
+          "cobalt",
+          "celadon",
+          "rust"
+        ],
+        [
+          "rice",
+          "rice",
+          "celadon",
+          "rust"
+        ],
+        []
+      ],
+      "capacity": 4,
+      "goldDrops": 2,
+      "targetMoves": 13,
+      "optimalMoves": 11,
+      "palette": [
+        {
+          "id": "celadon",
+          "name": "Celadon Jade",
+          "hex": "#7fb069"
+        },
+        {
+          "id": "cobalt",
+          "name": "Cobalt Indigo",
+          "hex": "#3b5ba6"
+        },
+        {
+          "id": "rust",
+          "name": "Iron Rust",
+          "hex": "#b85c38"
+        },
+        {
+          "id": "rice",
+          "name": "Creamy Rice",
+          "hex": "#e8dcc5"
+        }
+      ]
+    },
+    {
+      "id": "sum-6",
+      "tier": "summer",
+      "index": 5,
+      "name": "Summer Firing \u2014 6",
+      "bowls": [
+        [
+          "cobalt",
+          "rice"
+        ],
+        [],
+        [
+          "rust",
+          "rust",
+          "cobalt",
+          "rice"
+        ],
+        [
+          "rice"
+        ],
+        [
+          "celadon",
+          "cobalt",
+          "rust",
+          "cobalt"
+        ],
+        [
+          "rice"
+        ],
+        [
+          "celadon",
+          "celadon",
+          "celadon",
+          "rust"
+        ]
+      ],
+      "capacity": 4,
+      "goldDrops": 2,
+      "targetMoves": 17,
+      "optimalMoves": 15,
+      "palette": [
+        {
+          "id": "celadon",
+          "name": "Celadon Jade",
+          "hex": "#7fb069"
+        },
+        {
+          "id": "cobalt",
+          "name": "Cobalt Indigo",
+          "hex": "#3b5ba6"
+        },
+        {
+          "id": "rust",
+          "name": "Iron Rust",
+          "hex": "#b85c38"
+        },
+        {
+          "id": "rice",
+          "name": "Creamy Rice",
+          "hex": "#e8dcc5"
+        }
+      ]
+    },
+    {
+      "id": "sum-7",
+      "tier": "summer",
+      "index": 6,
+      "name": "Summer Firing \u2014 7",
+      "bowls": [
+        [],
+        [
+          "cobalt",
+          "cobalt",
+          "cobalt",
+          "rice"
+        ],
+        [
+          "rust",
+          "rust",
+          "rice",
+          "celadon"
+        ],
+        [
+          "rice",
+          "rice",
+          "celadon"
+        ],
+        [],
+        [
+          "cobalt",
+          "rust",
+          "rust",
+          "celadon"
+        ],
+        [
+          "celadon"
+        ]
+      ],
+      "capacity": 4,
+      "goldDrops": 2,
+      "targetMoves": 17,
+      "optimalMoves": 15,
+      "palette": [
+        {
+          "id": "celadon",
+          "name": "Celadon Jade",
+          "hex": "#7fb069"
+        },
+        {
+          "id": "cobalt",
+          "name": "Cobalt Indigo",
+          "hex": "#3b5ba6"
+        },
+        {
+          "id": "rust",
+          "name": "Iron Rust",
+          "hex": "#b85c38"
+        },
+        {
+          "id": "rice",
+          "name": "Creamy Rice",
+          "hex": "#e8dcc5"
+        }
+      ]
+    },
+    {
+      "id": "sum-8",
+      "tier": "summer",
+      "index": 7,
+      "name": "Summer Firing \u2014 8",
+      "bowls": [
+        [
+          "celadon",
+          "celadon",
+          "cobalt",
+          "rice"
+        ],
+        [
+          "cobalt",
+          "cobalt",
+          "celadon",
+          "rice"
+        ],
+        [
+          "rust",
+          "rust",
+          "rice",
+          "rust"
+        ],
+        [],
+        [],
+        [],
+        [
+          "celadon",
+          "cobalt",
+          "rust",
+          "rice"
+        ]
+      ],
+      "capacity": 4,
+      "goldDrops": 2,
+      "targetMoves": 12,
+      "optimalMoves": 10,
+      "palette": [
+        {
+          "id": "celadon",
+          "name": "Celadon Jade",
+          "hex": "#7fb069"
+        },
+        {
+          "id": "cobalt",
+          "name": "Cobalt Indigo",
+          "hex": "#3b5ba6"
+        },
+        {
+          "id": "rust",
+          "name": "Iron Rust",
+          "hex": "#b85c38"
+        },
+        {
+          "id": "rice",
+          "name": "Creamy Rice",
+          "hex": "#e8dcc5"
+        }
+      ]
+    },
+    {
+      "id": "sum-9",
+      "tier": "summer",
+      "index": 8,
+      "name": "Summer Firing \u2014 9",
+      "bowls": [
+        [
+          "celadon",
+          "celadon",
+          "celadon",
+          "rice"
+        ],
+        [
+          "cobalt",
+          "cobalt",
+          "cobalt",
+          "rice"
+        ],
+        [
+          "rust",
+          "cobalt",
+          "rice"
+        ],
+        [
+          "rice"
+        ],
+        [
+          "rust",
+          "rust",
+          "rust",
+          "celadon"
+        ],
+        [],
+        []
+      ],
+      "capacity": 4,
+      "goldDrops": 2,
+      "targetMoves": 17,
+      "optimalMoves": 15,
+      "palette": [
+        {
+          "id": "celadon",
+          "name": "Celadon Jade",
+          "hex": "#7fb069"
+        },
+        {
+          "id": "cobalt",
+          "name": "Cobalt Indigo",
+          "hex": "#3b5ba6"
+        },
+        {
+          "id": "rust",
+          "name": "Iron Rust",
+          "hex": "#b85c38"
+        },
+        {
+          "id": "rice",
+          "name": "Creamy Rice",
+          "hex": "#e8dcc5"
+        }
+      ]
+    },
+    {
+      "id": "sum-10",
+      "tier": "summer",
+      "index": 9,
+      "name": "Summer Firing \u2014 10",
+      "bowls": [
+        [
+          "celadon",
+          "celadon",
+          "rust",
+          "cobalt"
+        ],
+        [
+          "cobalt",
+          "cobalt",
+          "cobalt",
+          "rust"
+        ],
+        [
+          "rust",
+          "celadon"
+        ],
+        [
+          "rice",
+          "rice",
+          "rust"
+        ],
+        [
+          "rice",
+          "rice",
+          "celadon"
+        ],
+        [],
+        []
+      ],
+      "capacity": 4,
+      "goldDrops": 2,
+      "targetMoves": 10,
+      "optimalMoves": 8,
+      "palette": [
+        {
+          "id": "celadon",
+          "name": "Celadon Jade",
+          "hex": "#7fb069"
+        },
+        {
+          "id": "cobalt",
+          "name": "Cobalt Indigo",
+          "hex": "#3b5ba6"
+        },
+        {
+          "id": "rust",
+          "name": "Iron Rust",
+          "hex": "#b85c38"
+        },
+        {
+          "id": "rice",
+          "name": "Creamy Rice",
+          "hex": "#e8dcc5"
+        }
+      ]
+    },
+    {
+      "id": "sum-11",
+      "tier": "summer",
+      "index": 10,
+      "name": "Summer Firing \u2014 11",
+      "bowls": [
+        [
+          "celadon",
+          "rice",
+          "rust",
+          "celadon"
+        ],
+        [
+          "cobalt",
+          "cobalt",
+          "cobalt",
+          "rust"
+        ],
+        [
+          "rust",
+          "rust",
+          "cobalt",
+          "rice"
+        ],
+        [
+          "rice",
+          "rice",
+          "celadon"
+        ],
+        [],
+        [],
+        [
+          "celadon"
+        ]
+      ],
+      "capacity": 4,
+      "goldDrops": 2,
+      "targetMoves": 17,
+      "optimalMoves": 15,
+      "palette": [
+        {
+          "id": "celadon",
+          "name": "Celadon Jade",
+          "hex": "#7fb069"
+        },
+        {
+          "id": "cobalt",
+          "name": "Cobalt Indigo",
+          "hex": "#3b5ba6"
+        },
+        {
+          "id": "rust",
+          "name": "Iron Rust",
+          "hex": "#b85c38"
+        },
+        {
+          "id": "rice",
+          "name": "Creamy Rice",
+          "hex": "#e8dcc5"
+        }
+      ]
+    },
+    {
+      "id": "sum-12",
+      "tier": "summer",
+      "index": 11,
+      "name": "Summer Firing \u2014 12",
+      "bowls": [
+        [
+          "celadon",
+          "rice",
+          "rice",
+          "rust"
+        ],
+        [
+          "cobalt",
+          "cobalt",
+          "celadon",
+          "rust"
+        ],
+        [],
+        [
+          "rice",
+          "celadon",
+          "rust"
+        ],
+        [
+          "cobalt",
+          "cobalt",
+          "rice",
+          "celadon"
+        ],
+        [
+          "rust"
+        ],
+        []
+      ],
+      "capacity": 4,
+      "goldDrops": 2,
+      "targetMoves": 17,
+      "optimalMoves": 15,
+      "palette": [
+        {
+          "id": "celadon",
+          "name": "Celadon Jade",
+          "hex": "#7fb069"
+        },
+        {
+          "id": "cobalt",
+          "name": "Cobalt Indigo",
+          "hex": "#3b5ba6"
+        },
+        {
+          "id": "rust",
+          "name": "Iron Rust",
+          "hex": "#b85c38"
+        },
+        {
+          "id": "rice",
+          "name": "Creamy Rice",
+          "hex": "#e8dcc5"
+        }
+      ]
+    },
+    {
+      "id": "sum-13",
+      "tier": "summer",
+      "index": 12,
+      "name": "Summer Firing \u2014 13",
+      "bowls": [
+        [
+          "celadon",
+          "cobalt"
+        ],
+        [
+          "cobalt"
+        ],
+        [
+          "rust",
+          "rust",
+          "rust",
+          "cobalt"
+        ],
+        [
+          "rice",
+          "rice",
+          "rust",
+          "rice"
+        ],
+        [
+          "celadon",
+          "celadon",
+          "rice",
+          "celadon"
+        ],
+        [
+          "cobalt"
+        ],
+        []
+      ],
+      "capacity": 4,
+      "goldDrops": 2,
+      "targetMoves": 17,
+      "optimalMoves": 15,
+      "palette": [
+        {
+          "id": "celadon",
+          "name": "Celadon Jade",
+          "hex": "#7fb069"
+        },
+        {
+          "id": "cobalt",
+          "name": "Cobalt Indigo",
+          "hex": "#3b5ba6"
+        },
+        {
+          "id": "rust",
+          "name": "Iron Rust",
+          "hex": "#b85c38"
+        },
+        {
+          "id": "rice",
+          "name": "Creamy Rice",
+          "hex": "#e8dcc5"
+        }
+      ]
+    },
+    {
+      "id": "sum-14",
+      "tier": "summer",
+      "index": 13,
+      "name": "Summer Firing \u2014 14",
+      "bowls": [
+        [
+          "celadon",
+          "celadon",
+          "cobalt"
+        ],
+        [],
+        [
+          "rust",
+          "rust",
+          "rust",
+          "rice"
+        ],
+        [
+          "rice",
+          "rice",
+          "celadon",
+          "cobalt"
+        ],
+        [],
+        [
+          "cobalt"
+        ],
+        [
+          "celadon",
+          "rust",
+          "rice",
+          "cobalt"
+        ]
+      ],
+      "capacity": 4,
+      "goldDrops": 2,
+      "targetMoves": 17,
+      "optimalMoves": 15,
+      "palette": [
+        {
+          "id": "celadon",
+          "name": "Celadon Jade",
+          "hex": "#7fb069"
+        },
+        {
+          "id": "cobalt",
+          "name": "Cobalt Indigo",
+          "hex": "#3b5ba6"
+        },
+        {
+          "id": "rust",
+          "name": "Iron Rust",
+          "hex": "#b85c38"
+        },
+        {
+          "id": "rice",
+          "name": "Creamy Rice",
+          "hex": "#e8dcc5"
+        }
+      ]
+    },
+    {
+      "id": "sum-15",
+      "tier": "summer",
+      "index": 14,
+      "name": "Summer Firing \u2014 15",
+      "bowls": [
+        [
+          "celadon"
+        ],
+        [
+          "cobalt",
+          "cobalt",
+          "celadon"
+        ],
+        [
+          "rust",
+          "rust",
+          "cobalt",
+          "rice"
+        ],
+        [
+          "celadon"
+        ],
+        [],
+        [
+          "rice",
+          "rice",
+          "celadon"
+        ],
+        [
+          "cobalt",
+          "rust",
+          "rust",
+          "rice"
+        ]
+      ],
+      "capacity": 4,
+      "goldDrops": 2,
+      "targetMoves": 17,
+      "optimalMoves": 15,
+      "palette": [
+        {
+          "id": "celadon",
+          "name": "Celadon Jade",
+          "hex": "#7fb069"
+        },
+        {
+          "id": "cobalt",
+          "name": "Cobalt Indigo",
+          "hex": "#3b5ba6"
+        },
+        {
+          "id": "rust",
+          "name": "Iron Rust",
+          "hex": "#b85c38"
+        },
+        {
+          "id": "rice",
+          "name": "Creamy Rice",
+          "hex": "#e8dcc5"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,570 @@
+{
+  "tier": "golden",
+  "season": "Golden Age",
+  "levels": [
+    {
+      "id": "gol-1",
+      "tier": "golden",
+      "index": 0,
+      "name": "Golden Age \u2014 1",
+      "bowls": [
+        [
+          "celadon",
+          "celadon",
+          "celadon",
+          "celadon",
+          "celadon",
+          "sakura"
+        ],
+        [
+          "cobalt",
+          "gold"
+        ],
+        [
+          "rust",
+          "rust",
+          "rust",
+          "rust",
+          "rust",
+          "gold"
+        ],
+        [
+          "rice",
+          "rice",
+          "rice",
+          "rice",
+          "rice",
+          "cobalt"
+        ],
+        [],
+        [
+          "sakura",
+          "sakura",
+          "sakura",
+          "sakura",
+          "rust",
+          "cobalt"
+        ],
+        [
+          "gold",
+          "gold"
+        ],
+        [
+          "cobalt"
+        ],
+        [
+          "tenmoku",
+          "tenmoku",
+          "tenmoku",
+          "tenmoku",
+          "tenmoku",
+          "cobalt"
+        ],
+        [
+          "gold"
+        ],
+        [],
+        [
+          "gold",
+          "tenmoku",
+          "celadon",
+          "sakura",
+          "rice",
+          "cobalt"
+        ],
+        []
+      ],
+      "capacity": 6,
+      "goldDrops": 0,
+      "targetMoves": 17,
+      "optimalMoves": 16,
+      "palette": [
+        {
+          "id": "celadon",
+          "name": "Celadon Jade",
+          "hex": "#7fb069"
+        },
+        {
+          "id": "cobalt",
+          "name": "Cobalt Indigo",
+          "hex": "#3b5ba6"
+        },
+        {
+          "id": "rust",
+          "name": "Iron Rust",
+          "hex": "#b85c38"
+        },
+        {
+          "id": "rice",
+          "name": "Creamy Rice",
+          "hex": "#e8dcc5"
+        },
+        {
+          "id": "tenmoku",
+          "name": "Tenmoku Black",
+          "hex": "#2d2a26"
+        },
+        {
+          "id": "sakura",
+          "name": "Sakura Pink",
+          "hex": "#d68c9f"
+        },
+        {
+          "id": "gold",
+          "name": "Gold Lacquer",
+          "hex": "#d4af37"
+        }
+      ]
+    },
+    {
+      "id": "gol-2",
+      "tier": "golden",
+      "index": 1,
+      "name": "Golden Age \u2014 2",
+      "bowls": [
+        [],
+        [
+          "cobalt",
+          "cobalt",
+          "tenmoku",
+          "rust"
+        ],
+        [
+          "rust",
+          "rust",
+          "rust"
+        ],
+        [
+          "rice",
+          "gold",
+          "celadon",
+          "celadon",
+          "rust",
+          "tenmoku"
+        ],
+        [
+          "tenmoku",
+          "tenmoku",
+          "tenmoku",
+          "celadon",
+          "tenmoku"
+        ],
+        [
+          "sakura",
+          "sakura",
+          "sakura",
+          "sakura",
+          "sakura",
+          "rice"
+        ],
+        [
+          "gold",
+          "gold",
+          "gold",
+          "gold",
+          "gold",
+          "celadon"
+        ],
+        [],
+        [],
+        [
+          "sakura",
+          "cobalt",
+          "cobalt",
+          "cobalt",
+          "cobalt",
+          "celadon"
+        ],
+        [],
+        [],
+        [
+          "rice",
+          "rice",
+          "rice",
+          "rice",
+          "celadon",
+          "rust"
+        ]
+      ],
+      "capacity": 6,
+      "goldDrops": 0,
+      "targetMoves": 17,
+      "optimalMoves": 16,
+      "palette": [
+        {
+          "id": "celadon",
+          "name": "Celadon Jade",
+          "hex": "#7fb069"
+        },
+        {
+          "id": "cobalt",
+          "name": "Cobalt Indigo",
+          "hex": "#3b5ba6"
+        },
+        {
+          "id": "rust",
+          "name": "Iron Rust",
+          "hex": "#b85c38"
+        },
+        {
+          "id": "rice",
+          "name": "Creamy Rice",
+          "hex": "#e8dcc5"
+        },
+        {
+          "id": "tenmoku",
+          "name": "Tenmoku Black",
+          "hex": "#2d2a26"
+        },
+        {
+          "id": "sakura",
+          "name": "Sakura Pink",
+          "hex": "#d68c9f"
+        },
+        {
+          "id": "gold",
+          "name": "Gold Lacquer",
+          "hex": "#d4af37"
+        }
+      ]
+    },
+    {
+      "id": "gol-3",
+      "tier": "golden",
+      "index": 2,
+      "name": "Golden Age \u2014 3",
+      "bowls": [
+        [
+          "celadon",
+          "celadon",
+          "celadon",
+          "rust",
+          "tenmoku"
+        ],
+        [
+          "cobalt",
+          "cobalt",
+          "cobalt",
+          "cobalt",
+          "cobalt",
+          "celadon"
+        ],
+        [
+          "rust",
+          "rust",
+          "rust",
+          "rust",
+          "rice",
+          "gold"
+        ],
+        [
+          "rice",
+          "rice",
+          "rice",
+          "rice",
+          "gold",
+          "gold"
+        ],
+        [
+          "tenmoku",
+          "tenmoku",
+          "tenmoku",
+          "rust",
+          "gold"
+        ],
+        [
+          "sakura",
+          "sakura",
+          "sakura",
+          "sakura",
+          "celadon"
+        ],
+        [
+          "gold"
+        ],
+        [],
+        [
+          "tenmoku",
+          "gold"
+        ],
+        [
+          "cobalt",
+          "sakura",
+          "sakura",
+          "celadon",
+          "rice",
+          "tenmoku"
+        ],
+        [],
+        [],
+        []
+      ],
+      "capacity": 6,
+      "goldDrops": 0,
+      "targetMoves": 17,
+      "optimalMoves": 16,
+      "palette": [
+        {
+          "id": "celadon",
+          "name": "Celadon Jade",
+          "hex": "#7fb069"
+        },
+        {
+          "id": "cobalt",
+          "name": "Cobalt Indigo",
+          "hex": "#3b5ba6"
+        },
+        {
+          "id": "rust",
+          "name": "Iron Rust",
+          "hex": "#b85c38"
+        },
+        {
+          "id": "rice",
+          "name": "Creamy Rice",
+          "hex": "#e8dcc5"
+        },
+        {
+          "id": "tenmoku",
+          "name": "Tenmoku Black",
+          "hex": "#2d2a26"
+        },
+        {
+          "id": "sakura",
+          "name": "Sakura Pink",
+          "hex": "#d68c9f"
+        },
+        {
+          "id": "gold",
+          "name": "Gold Lacquer",
+          "hex": "#d4af37"
+        }
+      ]
+    },
+    {
+      "id": "gol-4",
+      "tier": "golden",
+      "index": 3,
+      "name": "Golden Age \u2014 4",
+      "bowls": [
+        [],
+        [
+          "cobalt",
+          "cobalt",
+          "sakura",
+          "cobalt",
+          "sakura"
+        ],
+        [
+          "rust",
+          "rust",
+          "rust",
+          "rust",
+          "tenmoku",
+          "cobalt"
+        ],
+        [
+          "rice",
+          "rice",
+          "rice",
+          "rice",
+          "rice",
+          "tenmoku"
+        ],
+        [
+          "tenmoku",
+          "tenmoku",
+          "tenmoku",
+          "tenmoku",
+          "sakura",
+          "sakura"
+        ],
+        [
+          "sakura",
+          "gold",
+          "gold",
+          "gold",
+          "gold",
+          "celadon"
+        ],
+        [
+          "gold",
+          "rice"
+        ],
+        [],
+        [
+          "cobalt",
+          "cobalt",
+          "celadon",
+          "celadon",
+          "celadon",
+          "celadon"
+        ],
+        [
+          "rust",
+          "rust",
+          "celadon",
+          "gold",
+          "sakura"
+        ],
+        [],
+        [],
+        []
+      ],
+      "capacity": 6,
+      "goldDrops": 0,
+      "targetMoves": 17,
+      "optimalMoves": 16,
+      "palette": [
+        {
+          "id": "celadon",
+          "name": "Celadon Jade",
+          "hex": "#7fb069"
+        },
+        {
+          "id": "cobalt",
+          "name": "Cobalt Indigo",
+          "hex": "#3b5ba6"
+        },
+        {
+          "id": "rust",
+          "name": "Iron Rust",
+          "hex": "#b85c38"
+        },
+        {
+          "id": "rice",
+          "name": "Creamy Rice",
+          "hex": "#e8dcc5"
+        },
+        {
+          "id": "tenmoku",
+          "name": "Tenmoku Black",
+          "hex": "#2d2a26"
+        },
+        {
+          "id": "sakura",
+          "name": "Sakura Pink",
+          "hex": "#d68c9f"
+        },
+        {
+          "id": "gold",
+          "name": "Gold Lacquer",
+          "hex": "#d4af37"
+        }
+      ]
+    },
+    {
+      "id": "gol-5",
+      "tier": "golden",
+      "index": 4,
+      "name": "Golden Age \u2014 5",
+      "bowls": [
+        [
+          "celadon",
+          "celadon",
+          "tenmoku"
+        ],
+        [
+          "cobalt",
+          "cobalt",
+          "cobalt",
+          "cobalt",
+          "tenmoku",
+          "celadon"
+        ],
+        [],
+        [
+          "rice",
+          "rice",
+          "rice",
+          "rice",
+          "rice"
+        ],
+        [
+          "tenmoku",
+          "tenmoku",
+          "celadon",
+          "gold",
+          "gold"
+        ],
+        [
+          "sakura",
+          "sakura",
+          "sakura",
+          "sakura",
+          "sakura",
+          "rust"
+        ],
+        [
+          "gold",
+          "gold",
+          "gold",
+          "gold",
+          "cobalt"
+        ],
+        [],
+        [
+          "celadon",
+          "rust"
+        ],
+        [
+          "tenmoku",
+          "tenmoku",
+          "rice",
+          "celadon",
+          "sakura"
+        ],
+        [],
+        [],
+        [
+          "rust",
+          "rust",
+          "rust",
+          "rust",
+          "cobalt"
+        ]
+      ],
+      "capacity": 6,
+      "goldDrops": 0,
+      "targetMoves": 17,
+      "optimalMoves": 16,
+      "palette": [
+        {
+          "id": "celadon",
+          "name": "Celadon Jade",
+          "hex": "#7fb069"
+        },
+        {
+          "id": "cobalt",
+          "name": "Cobalt Indigo",
+          "hex": "#3b5ba6"
+        },
+        {
+          "id": "rust",
+          "name": "Iron Rust",
+          "hex": "#b85c38"
+        },
+        {
+          "id": "rice",
+          "name": "Creamy Rice",
+          "hex": "#e8dcc5"
+        },
+        {
+          "id": "tenmoku",
+          "name": "Tenmoku Black",
+          "hex": "#2d2a26"
+        },
+        {
+          "id": "sakura",
+          "name": "Sakura Pink",
+          "hex": "#d68c9f"
+        },
+        {
+          "id": "gold",
+          "name": "Gold Lacquer",
+          "hex": "#d4af37"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1194 @@
+{
+  "tier": "autumn",
+  "season": "Autumn Ash",
+  "levels": [
+    {
+      "id": "aut-1",
+      "tier": "autumn",
+      "index": 0,
+      "name": "Autumn Ash \u2014 1",
+      "bowls": [
+        [
+          "celadon",
+          "celadon",
+          "tenmoku",
+          "tenmoku",
+          "rice"
+        ],
+        [
+          "cobalt",
+          "cobalt",
+          "rice"
+        ],
+        [
+          "rust",
+          "rust",
+          "rust",
+          "rice",
+          "tenmoku"
+        ],
+        [
+          "rice",
+          "celadon",
+          "celadon",
+          "celadon",
+          "tenmoku"
+        ],
+        [
+          "tenmoku",
+          "rice"
+        ],
+        [],
+        [
+          "cobalt",
+          "cobalt",
+          "rust",
+          "rust",
+          "cobalt"
+        ],
+        [],
+        []
+      ],
+      "capacity": 5,
+      "goldDrops": 2,
+      "targetMoves": 13,
+      "optimalMoves": 11,
+      "palette": [
+        {
+          "id": "celadon",
+          "name": "Celadon Jade",
+          "hex": "#7fb069"
+        },
+        {
+          "id": "cobalt",
+          "name": "Cobalt Indigo",
+          "hex": "#3b5ba6"
+        },
+        {
+          "id": "rust",
+          "name": "Iron Rust",
+          "hex": "#b85c38"
+        },
+        {
+          "id": "rice",
+          "name": "Creamy Rice",
+          "hex": "#e8dcc5"
+        },
+        {
+          "id": "tenmoku",
+          "name": "Tenmoku Black",
+          "hex": "#2d2a26"
+        }
+      ]
+    },
+    {
+      "id": "aut-2",
+      "tier": "autumn",
+      "index": 1,
+      "name": "Autumn Ash \u2014 2",
+      "bowls": [
+        [
+          "celadon",
+          "tenmoku",
+          "celadon"
+        ],
+        [],
+        [
+          "rust",
+          "rust",
+          "rust",
+          "cobalt",
+          "tenmoku"
+        ],
+        [
+          "rice",
+          "rice",
+          "cobalt",
+          "cobalt",
+          "celadon"
+        ],
+        [
+          "tenmoku",
+          "tenmoku",
+          "rice",
+          "rice",
+          "tenmoku"
+        ],
+        [],
+        [
+          "cobalt",
+          "celadon"
+        ],
+        [],
+        [
+          "rust",
+          "rust",
+          "rice",
+          "cobalt",
+          "celadon"
+        ]
+      ],
+      "capacity": 5,
+      "goldDrops": 2,
+      "targetMoves": 17,
+      "optimalMoves": 15,
+      "palette": [
+        {
+          "id": "celadon",
+          "name": "Celadon Jade",
+          "hex": "#7fb069"
+        },
+        {
+          "id": "cobalt",
+          "name": "Cobalt Indigo",
+          "hex": "#3b5ba6"
+        },
+        {
+          "id": "rust",
+          "name": "Iron Rust",
+          "hex": "#b85c38"
+        },
+        {
+          "id": "rice",
+          "name": "Creamy Rice",
+          "hex": "#e8dcc5"
+        },
+        {
+          "id": "tenmoku",
+          "name": "Tenmoku Black",
+          "hex": "#2d2a26"
+        }
+      ]
+    },
+    {
+      "id": "aut-3",
+      "tier": "autumn",
+      "index": 2,
+      "name": "Autumn Ash \u2014 3",
+      "bowls": [
+        [
+          "celadon",
+          "celadon",
+          "rice"
+        ],
+        [
+          "cobalt",
+          "tenmoku",
+          "rice"
+        ],
+        [
+          "rust",
+          "rust",
+          "rust",
+          "rust",
+          "tenmoku"
+        ],
+        [],
+        [
+          "tenmoku",
+          "tenmoku",
+          "cobalt",
+          "celadon",
+          "rice"
+        ],
+        [
+          "cobalt",
+          "cobalt",
+          "cobalt",
+          "celadon",
+          "rice"
+        ],
+        [],
+        [
+          "tenmoku",
+          "rust",
+          "celadon",
+          "rice"
+        ],
+        []
+      ],
+      "capacity": 5,
+      "goldDrops": 2,
+      "targetMoves": 18,
+      "optimalMoves": 16,
+      "palette": [
+        {
+          "id": "celadon",
+          "name": "Celadon Jade",
+          "hex": "#7fb069"
+        },
+        {
+          "id": "cobalt",
+          "name": "Cobalt Indigo",
+          "hex": "#3b5ba6"
+        },
+        {
+          "id": "rust",
+          "name": "Iron Rust",
+          "hex": "#b85c38"
+        },
+        {
+          "id": "rice",
+          "name": "Creamy Rice",
+          "hex": "#e8dcc5"
+        },
+        {
+          "id": "tenmoku",
+          "name": "Tenmoku Black",
+          "hex": "#2d2a26"
+        }
+      ]
+    },
+    {
+      "id": "aut-4",
+      "tier": "autumn",
+      "index": 3,
+      "name": "Autumn Ash \u2014 4",
+      "bowls": [
+        [
+          "celadon",
+          "rice",
+          "rust"
+        ],
+        [
+          "cobalt",
+          "cobalt",
+          "cobalt",
+          "cobalt",
+          "tenmoku"
+        ],
+        [],
+        [
+          "rice",
+          "rice",
+          "rice",
+          "rust"
+        ],
+        [
+          "tenmoku",
+          "tenmoku",
+          "tenmoku",
+          "rice",
+          "rust"
+        ],
+        [],
+        [],
+        [
+          "cobalt",
+          "tenmoku",
+          "rust",
+          "celadon"
+        ],
+        [
+          "celadon",
+          "celadon",
+          "celadon",
+          "rust"
+        ]
+      ],
+      "capacity": 5,
+      "goldDrops": 2,
+      "targetMoves": 14,
+      "optimalMoves": 12,
+      "palette": [
+        {
+          "id": "celadon",
+          "name": "Celadon Jade",
+          "hex": "#7fb069"
+        },
+        {
+          "id": "cobalt",
+          "name": "Cobalt Indigo",
+          "hex": "#3b5ba6"
+        },
+        {
+          "id": "rust",
+          "name": "Iron Rust",
+          "hex": "#b85c38"
+        },
+        {
+          "id": "rice",
+          "name": "Creamy Rice",
+          "hex": "#e8dcc5"
+        },
+        {
+          "id": "tenmoku",
+          "name": "Tenmoku Black",
+          "hex": "#2d2a26"
+        }
+      ]
+    },
+    {
+      "id": "aut-5",
+      "tier": "autumn",
+      "index": 4,
+      "name": "Autumn Ash \u2014 5",
+      "bowls": [
+        [],
+        [
+          "cobalt",
+          "cobalt",
+          "tenmoku",
+          "celadon",
+          "tenmoku"
+        ],
+        [],
+        [
+          "rice",
+          "rice",
+          "rice",
+          "cobalt",
+          "celadon"
+        ],
+        [
+          "tenmoku",
+          "tenmoku",
+          "celadon",
+          "tenmoku",
+          "celadon"
+        ],
+        [
+          "rice",
+          "rice",
+          "rust",
+          "celadon",
+          "cobalt"
+        ],
+        [],
+        [
+          "rust",
+          "rust",
+          "rust",
+          "rust",
+          "cobalt"
+        ],
+        []
+      ],
+      "capacity": 5,
+      "goldDrops": 2,
+      "targetMoves": 17,
+      "optimalMoves": 15,
+      "palette": [
+        {
+          "id": "celadon",
+          "name": "Celadon Jade",
+          "hex": "#7fb069"
+        },
+        {
+          "id": "cobalt",
+          "name": "Cobalt Indigo",
+          "hex": "#3b5ba6"
+        },
+        {
+          "id": "rust",
+          "name": "Iron Rust",
+          "hex": "#b85c38"
+        },
+        {
+          "id": "rice",
+          "name": "Creamy Rice",
+          "hex": "#e8dcc5"
+        },
+        {
+          "id": "tenmoku",
+          "name": "Tenmoku Black",
+          "hex": "#2d2a26"
+        }
+      ]
+    },
+    {
+      "id": "aut-6",
+      "tier": "autumn",
+      "index": 5,
+      "name": "Autumn Ash \u2014 6",
+      "bowls": [
+        [
+          "celadon",
+          "celadon",
+          "celadon",
+          "tenmoku",
+          "cobalt"
+        ],
+        [
+          "cobalt",
+          "cobalt",
+          "cobalt",
+          "tenmoku"
+        ],
+        [
+          "rust",
+          "rust",
+          "celadon",
+          "celadon",
+          "rust"
+        ],
+        [
+          "rice",
+          "rice",
+          "rice",
+          "rice",
+          "tenmoku"
+        ],
+        [
+          "tenmoku",
+          "cobalt"
+        ],
+        [
+          "rice",
+          "rust",
+          "rust",
+          "tenmoku"
+        ],
+        [],
+        [],
+        []
+      ],
+      "capacity": 5,
+      "goldDrops": 2,
+      "targetMoves": 12,
+      "optimalMoves": 10,
+      "palette": [
+        {
+          "id": "celadon",
+          "name": "Celadon Jade",
+          "hex": "#7fb069"
+        },
+        {
+          "id": "cobalt",
+          "name": "Cobalt Indigo",
+          "hex": "#3b5ba6"
+        },
+        {
+          "id": "rust",
+          "name": "Iron Rust",
+          "hex": "#b85c38"
+        },
+        {
+          "id": "rice",
+          "name": "Creamy Rice",
+          "hex": "#e8dcc5"
+        },
+        {
+          "id": "tenmoku",
+          "name": "Tenmoku Black",
+          "hex": "#2d2a26"
+        }
+      ]
+    },
+    {
+      "id": "aut-7",
+      "tier": "autumn",
+      "index": 6,
+      "name": "Autumn Ash \u2014 7",
+      "bowls": [
+        [],
+        [
+          "cobalt",
+          "cobalt",
+          "cobalt",
+          "rice",
+          "celadon"
+        ],
+        [
+          "rust",
+          "rust",
+          "rust",
+          "cobalt",
+          "rice"
+        ],
+        [],
+        [
+          "tenmoku",
+          "tenmoku",
+          "celadon",
+          "rice",
+          "celadon"
+        ],
+        [
+          "tenmoku",
+          "tenmoku",
+          "rice",
+          "cobalt",
+          "celadon"
+        ],
+        [
+          "rust",
+          "rust",
+          "tenmoku",
+          "rice",
+          "celadon"
+        ],
+        [],
+        []
+      ],
+      "capacity": 5,
+      "goldDrops": 2,
+      "targetMoves": 19,
+      "optimalMoves": 17,
+      "palette": [
+        {
+          "id": "celadon",
+          "name": "Celadon Jade",
+          "hex": "#7fb069"
+        },
+        {
+          "id": "cobalt",
+          "name": "Cobalt Indigo",
+          "hex": "#3b5ba6"
+        },
+        {
+          "id": "rust",
+          "name": "Iron Rust",
+          "hex": "#b85c38"
+        },
+        {
+          "id": "rice",
+          "name": "Creamy Rice",
+          "hex": "#e8dcc5"
+        },
+        {
+          "id": "tenmoku",
+          "name": "Tenmoku Black",
+          "hex": "#2d2a26"
+        }
+      ]
+    },
+    {
+      "id": "aut-8",
+      "tier": "autumn",
+      "index": 7,
+      "name": "Autumn Ash \u2014 8",
+      "bowls": [
+        [
+          "celadon",
+          "celadon",
+          "celadon",
+          "celadon",
+          "rice"
+        ],
+        [
+          "tenmoku"
+        ],
+        [
+          "rust",
+          "rust",
+          "rust",
+          "rust",
+          "celadon"
+        ],
+        [
+          "rice",
+          "tenmoku"
+        ],
+        [
+          "tenmoku"
+        ],
+        [],
+        [
+          "cobalt",
+          "cobalt",
+          "rice",
+          "rust",
+          "rice"
+        ],
+        [
+          "cobalt",
+          "cobalt",
+          "cobalt",
+          "rice",
+          "tenmoku"
+        ],
+        [
+          "tenmoku"
+        ]
+      ],
+      "capacity": 5,
+      "goldDrops": 2,
+      "targetMoves": 19,
+      "optimalMoves": 17,
+      "palette": [
+        {
+          "id": "celadon",
+          "name": "Celadon Jade",
+          "hex": "#7fb069"
+        },
+        {
+          "id": "cobalt",
+          "name": "Cobalt Indigo",
+          "hex": "#3b5ba6"
+        },
+        {
+          "id": "rust",
+          "name": "Iron Rust",
+          "hex": "#b85c38"
+        },
+        {
+          "id": "rice",
+          "name": "Creamy Rice",
+          "hex": "#e8dcc5"
+        },
+        {
+          "id": "tenmoku",
+          "name": "Tenmoku Black",
+          "hex": "#2d2a26"
+        }
+      ]
+    },
+    {
+      "id": "aut-9",
+      "tier": "autumn",
+      "index": 8,
+      "name": "Autumn Ash \u2014 9",
+      "bowls": [
+        [
+          "celadon",
+          "celadon",
+          "celadon",
+          "celadon",
+          "rice"
+        ],
+        [
+          "cobalt",
+          "cobalt",
+          "cobalt",
+          "celadon",
+          "rust"
+        ],
+        [
+          "rust",
+          "rust",
+          "rice"
+        ],
+        [
+          "rice"
+        ],
+        [
+          "tenmoku",
+          "tenmoku",
+          "cobalt",
+          "rust",
+          "rice"
+        ],
+        [
+          "tenmoku",
+          "tenmoku",
+          "tenmoku",
+          "rust",
+          "cobalt"
+        ],
+        [],
+        [],
+        [
+          "rice"
+        ]
+      ],
+      "capacity": 5,
+      "goldDrops": 2,
+      "targetMoves": 19,
+      "optimalMoves": 17,
+      "palette": [
+        {
+          "id": "celadon",
+          "name": "Celadon Jade",
+          "hex": "#7fb069"
+        },
+        {
+          "id": "cobalt",
+          "name": "Cobalt Indigo",
+          "hex": "#3b5ba6"
+        },
+        {
+          "id": "rust",
+          "name": "Iron Rust",
+          "hex": "#b85c38"
+        },
+        {
+          "id": "rice",
+          "name": "Creamy Rice",
+          "hex": "#e8dcc5"
+        },
+        {
+          "id": "tenmoku",
+          "name": "Tenmoku Black",
+          "hex": "#2d2a26"
+        }
+      ]
+    },
+    {
+      "id": "aut-10",
+      "tier": "autumn",
+      "index": 9,
+      "name": "Autumn Ash \u2014 10",
+      "bowls": [
+        [
+          "celadon",
+          "celadon",
+          "celadon",
+          "cobalt"
+        ],
+        [
+          "cobalt",
+          "cobalt",
+          "cobalt",
+          "rice",
+          "tenmoku"
+        ],
+        [],
+        [
+          "rice",
+          "rice",
+          "rice",
+          "tenmoku"
+        ],
+        [
+          "tenmoku",
+          "rice",
+          "rust",
+          "rust",
+          "cobalt"
+        ],
+        [
+          "rust",
+          "rust",
+          "rust",
+          "tenmoku"
+        ],
+        [],
+        [],
+        [
+          "celadon",
+          "celadon",
+          "tenmoku"
+        ]
+      ],
+      "capacity": 5,
+      "goldDrops": 2,
+      "targetMoves": 13,
+      "optimalMoves": 11,
+      "palette": [
+        {
+          "id": "celadon",
+          "name": "Celadon Jade",
+          "hex": "#7fb069"
+        },
+        {
+          "id": "cobalt",
+          "name": "Cobalt Indigo",
+          "hex": "#3b5ba6"
+        },
+        {
+          "id": "rust",
+          "name": "Iron Rust",
+          "hex": "#b85c38"
+        },
+        {
+          "id": "rice",
+          "name": "Creamy Rice",
+          "hex": "#e8dcc5"
+        },
+        {
+          "id": "tenmoku",
+          "name": "Tenmoku Black",
+          "hex": "#2d2a26"
+        }
+      ]
+    },
+    {
+      "id": "aut-11",
+      "tier": "autumn",
+      "index": 10,
+      "name": "Autumn Ash \u2014 11",
+      "bowls": [
+        [
+          "celadon",
+          "celadon",
+          "celadon",
+          "celadon",
+          "rice"
+        ],
+        [
+          "cobalt",
+          "rice",
+          "celadon",
+          "rust",
+          "rice"
+        ],
+        [
+          "rust",
+          "rust",
+          "rust",
+          "tenmoku"
+        ],
+        [
+          "rice",
+          "tenmoku",
+          "tenmoku",
+          "rust",
+          "tenmoku"
+        ],
+        [],
+        [
+          "cobalt",
+          "cobalt",
+          "cobalt",
+          "cobalt",
+          "rice"
+        ],
+        [
+          "tenmoku"
+        ],
+        [],
+        []
+      ],
+      "capacity": 5,
+      "goldDrops": 2,
+      "targetMoves": 19,
+      "optimalMoves": 17,
+      "palette": [
+        {
+          "id": "celadon",
+          "name": "Celadon Jade",
+          "hex": "#7fb069"
+        },
+        {
+          "id": "cobalt",
+          "name": "Cobalt Indigo",
+          "hex": "#3b5ba6"
+        },
+        {
+          "id": "rust",
+          "name": "Iron Rust",
+          "hex": "#b85c38"
+        },
+        {
+          "id": "rice",
+          "name": "Creamy Rice",
+          "hex": "#e8dcc5"
+        },
+        {
+          "id": "tenmoku",
+          "name": "Tenmoku Black",
+          "hex": "#2d2a26"
+        }
+      ]
+    },
+    {
+      "id": "aut-12",
+      "tier": "autumn",
+      "index": 11,
+      "name": "Autumn Ash \u2014 12",
+      "bowls": [
+        [
+          "celadon"
+        ],
+        [
+          "cobalt",
+          "cobalt",
+          "cobalt",
+          "cobalt",
+          "rust"
+        ],
+        [
+          "rust",
+          "rust",
+          "rust",
+          "rice",
+          "celadon"
+        ],
+        [
+          "rice",
+          "rice",
+          "rice",
+          "rust",
+          "celadon"
+        ],
+        [
+          "tenmoku",
+          "rice",
+          "tenmoku",
+          "celadon"
+        ],
+        [
+          "tenmoku",
+          "cobalt",
+          "tenmoku",
+          "celadon",
+          "tenmoku"
+        ],
+        [],
+        [],
+        []
+      ],
+      "capacity": 5,
+      "goldDrops": 2,
+      "targetMoves": 19,
+      "optimalMoves": 17,
+      "palette": [
+        {
+          "id": "celadon",
+          "name": "Celadon Jade",
+          "hex": "#7fb069"
+        },
+        {
+          "id": "cobalt",
+          "name": "Cobalt Indigo",
+          "hex": "#3b5ba6"
+        },
+        {
+          "id": "rust",
+          "name": "Iron Rust",
+          "hex": "#b85c38"
+        },
+        {
+          "id": "rice",
+          "name": "Creamy Rice",
+          "hex": "#e8dcc5"
+        },
+        {
+          "id": "tenmoku",
+          "name": "Tenmoku Black",
+          "hex": "#2d2a26"
+        }
+      ]
+    },
+    {
+      "id": "aut-13",
+      "tier": "autumn",
+      "index": 12,
+      "name": "Autumn Ash \u2014 13",
+      "bowls": [
+        [
+          "celadon",
+          "celadon",
+          "celadon",
+          "celadon",
+          "cobalt"
+        ],
+        [
+          "cobalt",
+          "cobalt",
+          "tenmoku",
+          "celadon",
+          "tenmoku"
+        ],
+        [
+          "rust",
+          "rust",
+          "cobalt",
+          "tenmoku"
+        ],
+        [
+          "rice",
+          "rice",
+          "rice",
+          "rice",
+          "cobalt"
+        ],
+        [],
+        [],
+        [],
+        [
+          "rust",
+          "rust",
+          "rust",
+          "rice",
+          "tenmoku"
+        ],
+        [
+          "tenmoku"
+        ]
+      ],
+      "capacity": 5,
+      "goldDrops": 2,
+      "targetMoves": 19,
+      "optimalMoves": 17,
+      "palette": [
+        {
+          "id": "celadon",
+          "name": "Celadon Jade",
+          "hex": "#7fb069"
+        },
+        {
+          "id": "cobalt",
+          "name": "Cobalt Indigo",
+          "hex": "#3b5ba6"
+        },
+        {
+          "id": "rust",
+          "name": "Iron Rust",
+          "hex": "#b85c38"
+        },
+        {
+          "id": "rice",
+          "name": "Creamy Rice",
+          "hex": "#e8dcc5"
+        },
+        {
+          "id": "tenmoku",
+          "name": "Tenmoku Black",
+          "hex": "#2d2a26"
+        }
+      ]
+    },
+    {
+      "id": "aut-14",
+      "tier": "autumn",
+      "index": 13,
+      "name": "Autumn Ash \u2014 14",
+      "bowls": [
+        [
+          "celadon",
+          "celadon",
+          "celadon",
+          "celadon",
+          "cobalt"
+        ],
+        [
+          "cobalt",
+          "cobalt",
+          "cobalt",
+          "rust"
+        ],
+        [],
+        [
+          "rice",
+          "rice",
+          "rice",
+          "rice",
+          "celadon"
+        ],
+        [
+          "tenmoku",
+          "tenmoku",
+          "tenmoku",
+          "rust"
+        ],
+        [
+          "rice",
+          "tenmoku",
+          "tenmoku",
+          "cobalt",
+          "rust"
+        ],
+        [
+          "rust"
+        ],
+        [],
+        [
+          "rust"
+        ]
+      ],
+      "capacity": 5,
+      "goldDrops": 2,
+      "targetMoves": 19,
+      "optimalMoves": 17,
+      "palette": [
+        {
+          "id": "celadon",
+          "name": "Celadon Jade",
+          "hex": "#7fb069"
+        },
+        {
+          "id": "cobalt",
+          "name": "Cobalt Indigo",
+          "hex": "#3b5ba6"
+        },
+        {
+          "id": "rust",
+          "name": "Iron Rust",
+          "hex": "#b85c38"
+        },
+        {
+          "id": "rice",
+          "name": "Creamy Rice",
+          "hex": "#e8dcc5"
+        },
+        {
+          "id": "tenmoku",
+          "name": "Tenmoku Black",
+          "hex": "#2d2a26"
+        }
+      ]
+    },
+    {
+      "id": "aut-15",
+      "tier": "autumn",
+      "index": 14,
+      "name": "Autumn Ash \u2014 15",
+      "bowls": [
+        [
+          "celadon"
+        ],
+        [
+          "cobalt",
+          "cobalt",
+          "cobalt",
+          "celadon"
+        ],
+        [
+          "rust",
+          "rust",
+          "rust",
+          "celadon"
+        ],
+        [
+          "rice",
+          "rice",
+          "cobalt",
+          "rust",
+          "celadon"
+        ],
+        [
+          "tenmoku",
+          "tenmoku",
+          "rice",
+          "rice",
+          "rust"
+        ],
+        [
+          "celadon"
+        ],
+        [],
+        [
+          "tenmoku",
+          "tenmoku",
+          "tenmoku",
+          "cobalt",
+          "rice"
+        ],
+        []
+      ],
+      "capacity": 5,
+      "goldDrops": 2,
+      "targetMoves": 19,
+      "optimalMoves": 17,
+      "palette": [
+        {
+          "id": "celadon",
+          "name": "Celadon Jade",
+          "hex": "#7fb069"
+        },
+        {
+          "id": "cobalt",
+          "name": "Cobalt Indigo",
+          "hex": "#3b5ba6"
+        },
+        {
+          "id": "rust",
+          "name": "Iron Rust",
+          "hex": "#b85c38"
+        },
+        {
+          "id": "rice",
+          "name": "Creamy Rice",
+          "hex": "#e8dcc5"
+        },
+        {
+          "id": "tenmoku",
+          "name": "Tenmoku Black",
+          "hex": "#2d2a26"
+        }
+      ]
+    }
+  ]
+}
