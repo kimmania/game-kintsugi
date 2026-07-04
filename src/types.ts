@@ -49,7 +49,7 @@ export interface Settings {
 }
 
 export const SAVE_VERSION = 1;
-export const SAVE_KEY = 'catalyst-save';
+export const SAVE_KEY = 'kintsugi_save';
 
 export const TIERS = ['spring', 'summer', 'autumn', 'winter', 'golden'];
 

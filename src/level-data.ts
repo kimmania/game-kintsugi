@@ -36,6 +36,14 @@ export function unlockNext(data: SaveData, levels: LevelData[], levelId: string)
     set.add(next);
     data.unlocked = Array.from(set);
   }
+  // if first level of a new tier, ensure it unlocks naturally
+  const currentIdx = levels.findIndex((l) => l.id === levelId);
+  if (currentIdx >= 0) {
+    const set = new Set(data.unlocked);
+    const nextInTier = levels[currentIdx + 1];
+    if (nextInTier) set.add(nextInTier.id);
+    data.unlocked = Array.from(set);
+  }
   return data;
 }
 

@@ -55,6 +55,7 @@ export function renderMap(
         <h1 style="margin:0;font-size:1.4rem;color:var(--gold)">Atelier</h1>
         <button id="map-settings" type="button" aria-label="Settings">⚙️</button>
       </header>
+      <p style="text-align:center;color:var(--muted);font-size:0.95rem">${escapeHtml('Tap a glowing number to restore a bowl.')}</p>
       <div id="tier-list"></div>
     </section>
   `;
@@ -109,7 +110,7 @@ export function renderLevelScreen(level: LevelData, moves: number): void {
         <button id="undo-btn" type="button">Undo</button>
         <button id="reset-btn" type="button">Reset</button>
         <button id="gold-btn" type="button" aria-pressed="false">
-          <span role="img" aria-hidden="true">🖌</span> Gold
+          <span role="img" aria-hidden="true">🖌</span> <span class="gold-label">Gold</span>
         </button>
         <button id="help-btn" type="button" aria-label="Help">?</button>
       </div>

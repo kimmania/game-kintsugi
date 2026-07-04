@@ -45,6 +45,9 @@ export function updateHeader(state: GameState): void {
     gb.classList.toggle('active', state.goldMode);
     gb.setAttribute('aria-pressed', state.goldMode ? 'true' : 'false');
     gb.disabled = state.goldDropsRemaining <= 0 && !state.goldMode;
+    /* Update display text to say "Gold: remaining / total" */
+    const label = gb.querySelector('span.gold-label');
+    if (label) label.textContent = `Gold ${state.goldDropsRemaining}`;
   }
 }
 
