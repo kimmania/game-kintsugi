@@ -95,9 +95,13 @@ export function showVictoryModal(
     </div>
   `;
   document.body.appendChild(overlay);
-  if (onNext) el<HTMLButtonElement>('vic-next').addEventListener('click', onNext);
-  el<HTMLButtonElement>('vic-replay').addEventListener('click', onReplay);
-  el<HTMLButtonElement>('vic-map').addEventListener('click', onMap);
+  const withClose = (fn: () => void) => () => {
+    removeModal('victory-modal');
+    fn();
+  };
+  if (onNext) el<HTMLButtonElement>('vic-next').addEventListener('click', withClose(onNext));
+  el<HTMLButtonElement>('vic-replay').addEventListener('click', withClose(onReplay));
+  el<HTMLButtonElement>('vic-map').addEventListener('click', withClose(onMap));
 }
 
 export function showHelpModal(): void {

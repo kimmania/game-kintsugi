@@ -10,21 +10,21 @@
       "bowls": [
         [
           "celadon",
+          "cobalt",
+          "cobalt",
           "rust"
         ],
         [
           "cobalt",
           "cobalt",
-          "celadon"
+          "rust"
         ],
         [
-          "rust",
+          "rust"
+        ],
+        [
           "celadon",
-          "rust"
-        ],
-        [
-          "cobalt",
-          "cobalt",
+          "celadon",
           "celadon",
           "rust"
         ],
@@ -32,8 +32,8 @@
       ],
       "capacity": 4,
       "goldDrops": 3,
-      "targetMoves": 11,
-      "optimalMoves": 8,
+      "targetMoves": 16,
+      "optimalMoves": 13,
       "palette": [
         {
           "id": "celadon",
@@ -59,32 +59,31 @@
       "name": "Spring Awakening \u2014 2",
       "bowls": [
         [
+          "celadon",
+          "celadon",
           "rust",
-          "cobalt",
           "celadon"
         ],
         [
           "cobalt",
           "cobalt",
-          "celadon"
+          "cobalt",
+          "rust"
+        ],
+        [],
+        [
+          "rust"
         ],
         [
-          "rust",
-          "rust",
-          "rust",
-          "cobalt"
-        ],
-        [
-          "celadon"
-        ],
-        [
-          "celadon"
+          "cobalt",
+          "celadon",
+          "rust"
         ]
       ],
       "capacity": 4,
       "goldDrops": 3,
-      "targetMoves": 11,
-      "optimalMoves": 8,
+      "targetMoves": 16,
+      "optimalMoves": 13,
       "palette": [
         {
           "id": "celadon",
@@ -112,20 +111,20 @@
         [
           "celadon",
           "celadon",
-          "celadon",
-          "rust"
+          "cobalt"
         ],
         [
-          "cobalt",
+          "cobalt"
+        ],
+        [
+          "rust",
+          "celadon",
           "celadon",
           "cobalt"
         ],
         [
           "rust",
           "rust",
-          "cobalt"
-        ],
-        [
           "rust",
           "cobalt"
         ],
@@ -133,8 +132,8 @@
       ],
       "capacity": 4,
       "goldDrops": 3,
-      "targetMoves": 9,
-      "optimalMoves": 6,
+      "targetMoves": 16,
+      "optimalMoves": 13,
       "palette": [
         {
           "id": "celadon",
@@ -160,7 +159,17 @@
       "name": "Spring Awakening \u2014 4",
       "bowls": [
         [
-          "celadon",
+          "celadon"
+        ],
+        [
+          "cobalt",
+          "cobalt",
+          "rust",
+          "cobalt"
+        ],
+        [
+          "rust",
+          "rust",
           "rust",
           "celadon"
         ],
@@ -169,22 +178,13 @@
           "celadon"
         ],
         [
-          "rust",
-          "cobalt",
-          "rust"
-        ],
-        [
-          "rust",
-          "cobalt",
-          "cobalt",
           "celadon"
-        ],
-        []
+        ]
       ],
       "capacity": 4,
       "goldDrops": 3,
-      "targetMoves": 11,
-      "optimalMoves": 8,
+      "targetMoves": 13,
+      "optimalMoves": 10,
       "palette": [
         {
           "id": "celadon",
@@ -210,32 +210,31 @@
       "name": "Spring Awakening \u2014 5",
       "bowls": [
         [
-          "celadon"
+          "celadon",
+          "celadon",
+          "cobalt"
         ],
         [
-          "cobalt",
-          "rust",
-          "rust",
-          "celadon"
-        ],
-        [
-          "celadon"
-        ],
-        [
-          "cobalt",
-          "cobalt",
-          "cobalt",
-          "rust"
+          "cobalt"
         ],
         [
           "rust",
-          "celadon"
+          "rust",
+          "rust",
+          "cobalt"
+        ],
+        [],
+        [
+          "celadon",
+          "celadon",
+          "rust",
+          "cobalt"
         ]
       ],
       "capacity": 4,
       "goldDrops": 3,
-      "targetMoves": 10,
-      "optimalMoves": 7,
+      "targetMoves": 16,
+      "optimalMoves": 13,
       "palette": [
         {
           "id": "celadon",
@@ -262,75 +261,25 @@
       "bowls": [
         [
           "celadon",
-          "celadon",
-          "celadon",
           "cobalt"
         ],
         [
-          "cobalt",
-          "rust"
-        ],
-        [
-          "rust"
-        ],
-        [
-          "rust"
-        ],
-        [
-          "cobalt",
-          "cobalt",
-          "celadon",
-          "rust"
-        ]
-      ],
-      "capacity": 4,
-      "goldDrops": 3,
-      "targetMoves": 10,
-      "optimalMoves": 7,
-      "palette": [
-        {
-          "id": "celadon",
-          "name": "Celadon Jade",
-          "hex": "#7fb069"
-        },
-        {
-          "id": "cobalt",
-          "name": "Cobalt Indigo",
-          "hex": "#3b5ba6"
-        },
-        {
-          "id": "rust",
-          "name": "Iron Rust",
-          "hex": "#b85c38"
-        }
-      ]
-    },
-    {
-      "id": "spr-7",
-      "tier": "spring",
-      "index": 6,
-      "name": "Spring Awakening \u2014 7",
-      "bowls": [
-        [
-          "celadon",
-          "celadon",
           "cobalt"
         ],
         [
-          "cobalt",
+          "rust",
+          "rust",
+          "rust",
           "celadon"
         ],
         [
-          "rust",
-          "rust",
           "cobalt"
         ],
-        [],
         [
           "rust",
-          "rust",
-          "cobalt",
-          "celadon"
+          "celadon",
+          "celadon",
+          "cobalt"
         ]
       ],
       "capacity": 4,
@@ -356,22 +305,20 @@
       ]
     },
     {
-      "id": "spr-8",
+      "id": "spr-7",
       "tier": "spring",
-      "index": 7,
-      "name": "Spring Awakening \u2014 8",
+      "index": 6,
+      "name": "Spring Awakening \u2014 7",
       "bowls": [
         [],
         [
           "cobalt",
           "cobalt",
-          "celadon"
-        ],
-        [
           "rust",
           "celadon"
         ],
         [
+          "rust",
           "rust",
           "celadon",
           "rust"
@@ -379,14 +326,66 @@
         [
           "cobalt",
           "cobalt",
-          "celadon",
-          "rust"
+          "celadon"
+        ],
+        [
+          "celadon"
         ]
       ],
       "capacity": 4,
       "goldDrops": 3,
-      "targetMoves": 14,
-      "optimalMoves": 11,
+      "targetMoves": 16,
+      "optimalMoves": 13,
+      "palette": [
+        {
+          "id": "celadon",
+          "name": "Celadon Jade",
+          "hex": "#7fb069"
+        },
+        {
+          "id": "cobalt",
+          "name": "Cobalt Indigo",
+          "hex": "#3b5ba6"
+        },
+        {
+          "id": "rust",
+          "name": "Iron Rust",
+          "hex": "#b85c38"
+        }
+      ]
+    },
+    {
+      "id": "spr-8",
+      "tier": "spring",
+      "index": 7,
+      "name": "Spring Awakening \u2014 8",
+      "bowls": [
+        [
+          "celadon",
+          "cobalt"
+        ],
+        [
+          "cobalt",
+          "cobalt",
+          "celadon"
+        ],
+        [
+          "rust",
+          "rust",
+          "celadon"
+        ],
+        [],
+        [
+          "rust",
+          "rust",
+          "celadon",
+          "cobalt"
+        ]
+      ],
+      "capacity": 4,
+      "goldDrops": 3,
+      "targetMoves": 9,
+      "optimalMoves": 6,
       "palette": [
         {
           "id": "celadon",
@@ -412,26 +411,26 @@
       "name": "Spring Awakening \u2014 9",
       "bowls": [
         [
-          "celadon"
+          "celadon",
+          "celadon",
+          "cobalt",
+          "rust"
         ],
         [
           "cobalt",
           "cobalt",
-          "celadon"
+          "rust"
         ],
-        [
-          "rust",
-          "rust",
-          "rust",
-          "cobalt"
-        ],
+        [],
         [
           "celadon",
           "celadon",
           "cobalt",
           "rust"
         ],
-        []
+        [
+          "rust"
+        ]
       ],
       "capacity": 4,
       "goldDrops": 3,
@@ -461,32 +460,32 @@
       "index": 9,
       "name": "Spring Awakening \u2014 10",
       "bowls": [
+        [],
         [
+          "cobalt",
+          "cobalt",
           "celadon",
-          "celadon",
-          "cobalt"
-        ],
-        [
-          "celadon",
-          "cobalt"
-        ],
-        [
-          "rust",
-          "rust",
-          "cobalt"
+          "rust"
         ],
         [
           "rust",
           "rust",
-          "celadon",
-          "cobalt"
+          "celadon"
         ],
-        []
+        [
+          "celadon"
+        ],
+        [
+          "cobalt",
+          "cobalt",
+          "rust",
+          "celadon"
+        ]
       ],
       "capacity": 4,
       "goldDrops": 3,
-      "targetMoves": 10,
-      "optimalMoves": 7,
+      "targetMoves": 16,
+      "optimalMoves": 13,
       "palette": [
         {
           "id": "celadon",
@@ -514,29 +513,30 @@
         [
           "celadon",
           "celadon",
-          "cobalt",
-          "rust"
-        ],
-        [],
-        [
-          "rust"
+          "cobalt"
         ],
         [
-          "cobalt",
-          "cobalt",
-          "rust"
+          "cobalt"
         ],
         [
+          "rust",
           "celadon",
-          "celadon",
-          "cobalt",
-          "rust"
+          "cobalt"
+        ],
+        [
+          "rust",
+          "rust",
+          "rust",
+          "celadon"
+        ],
+        [
+          "cobalt"
         ]
       ],
       "capacity": 4,
       "goldDrops": 3,
-      "targetMoves": 16,
-      "optimalMoves": 13,
+      "targetMoves": 10,
+      "optimalMoves": 7,
       "palette": [
         {
           "id": "celadon",
@@ -563,12 +563,13 @@
       "bowls": [
         [
           "celadon",
+          "celadon",
+          "celadon",
           "cobalt"
         ],
         [
           "cobalt",
-          "cobalt",
-          "celadon"
+          "rust"
         ],
         [
           "rust",
@@ -577,16 +578,15 @@
           "cobalt"
         ],
         [
-          "rust",
-          "rust",
-          "celadon"
+          "cobalt",
+          "rust"
         ],
         []
       ],
       "capacity": 4,
       "goldDrops": 3,
-      "targetMoves": 11,
-      "optimalMoves": 8,
+      "targetMoves": 9,
+      "optimalMoves": 6,
       "palette": [
         {
           "id": "celadon",
@@ -613,25 +613,25 @@
       "bowls": [
         [
           "celadon",
-          "rust"
+          "celadon",
+          "celadon",
+          "cobalt"
         ],
         [
-          "cobalt",
-          "cobalt",
-          "cobalt",
+          "cobalt"
+        ],
+        [
+          "rust",
+          "rust",
+          "rust",
           "celadon"
         ],
         [
-          "rust"
+          "rust",
+          "cobalt"
         ],
         [
-          "celadon",
-          "cobalt",
-          "celadon",
-          "rust"
-        ],
-        [
-          "rust"
+          "cobalt"
         ]
       ],
       "capacity": 4,
@@ -663,26 +663,26 @@
       "name": "Spring Awakening \u2014 14",
       "bowls": [
         [
-          "celadon"
-        ],
-        [
-          "cobalt",
-          "cobalt",
-          "cobalt",
-          "celadon"
-        ],
-        [
-          "rust",
-          "rust",
           "celadon",
-          "cobalt"
+          "celadon",
+          "rust"
         ],
         [
-          "rust",
-          "rust",
-          "celadon"
+          "cobalt",
+          "cobalt",
+          "cobalt",
+          "rust"
         ],
-        []
+        [
+          "rust"
+        ],
+        [],
+        [
+          "celadon",
+          "celadon",
+          "cobalt",
+          "rust"
+        ]
       ],
       "capacity": 4,
       "goldDrops": 3,
@@ -713,32 +713,31 @@
       "name": "Spring Awakening \u2014 15",
       "bowls": [
         [
-          "celadon"
+          "celadon",
+          "celadon",
+          "cobalt"
         ],
+        [],
         [
+          "rust",
+          "rust",
           "cobalt",
-          "cobalt",
-          "celadon"
+          "rust"
         ],
         [
-          "celadon"
-        ],
-        [
-          "rust",
-          "rust",
-          "rust",
+          "celadon",
           "cobalt"
         ],
         [
+          "celadon",
           "rust",
-          "cobalt",
-          "celadon"
+          "cobalt"
         ]
       ],
       "capacity": 4,
       "goldDrops": 3,
-      "targetMoves": 12,
-      "optimalMoves": 9,
+      "targetMoves": 11,
+      "optimalMoves": 8,
       "palette": [
         {
           "id": "celadon",
