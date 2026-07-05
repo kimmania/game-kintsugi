@@ -7,30 +7,30 @@
       "name": "Spring Awakening \u2014 1",
       "bowls": [
         [
-          "celadon",
-          "celadon",
-          "celadon",
-          "cobalt"
-        ],
-        [
           "cobalt",
-          "cobalt",
-          "rust",
-          "cobalt"
-        ],
-        [
-          "rust",
           "rust",
           "rust",
           "celadon"
         ],
+        [
+          "cobalt",
+          "cobalt",
+          "cobalt",
+          "celadon"
+        ],
         [],
-        []
+        [],
+        [
+          "rust",
+          "celadon",
+          "celadon",
+          "rust"
+        ]
       ],
       "capacity": 4,
       "goldDrops": 3,
-      "targetMoves": 9,
-      "optimalMoves": 6,
+      "targetMoves": 12,
+      "optimalMoves": 9,
       "palette": [
         {
           "id": "celadon",
@@ -57,29 +57,29 @@
       "bowls": [
         [
           "celadon",
+          "cobalt",
+          "rust",
+          "cobalt"
+        ],
+        [
+          "cobalt",
+          "rust",
+          "cobalt",
+          "rust"
+        ],
+        [],
+        [],
+        [
+          "celadon",
           "celadon",
           "celadon",
           "rust"
-        ],
-        [
-          "cobalt",
-          "cobalt",
-          "cobalt",
-          "celadon"
-        ],
-        [],
-        [],
-        [
-          "rust",
-          "rust",
-          "rust",
-          "cobalt"
         ]
       ],
       "capacity": 4,
       "goldDrops": 3,
-      "targetMoves": 7,
-      "optimalMoves": 4,
+      "targetMoves": 13,
+      "optimalMoves": 10,
       "palette": [
         {
           "id": "celadon",
@@ -106,29 +106,29 @@
       "bowls": [
         [
           "celadon",
-          "rust",
-          "rust",
-          "celadon"
-        ],
-        [
           "cobalt",
-          "cobalt",
-          "celadon",
-          "rust"
+          "rust",
+          "cobalt"
         ],
         [],
         [],
         [
-          "cobalt",
-          "cobalt",
           "celadon",
-          "rust"
+          "celadon",
+          "celadon",
+          "cobalt"
+        ],
+        [
+          "rust",
+          "rust",
+          "rust",
+          "cobalt"
         ]
       ],
       "capacity": 4,
       "goldDrops": 3,
-      "targetMoves": 12,
-      "optimalMoves": 9,
+      "targetMoves": 11,
+      "optimalMoves": 8,
       "palette": [
         {
           "id": "celadon",
@@ -157,27 +157,27 @@
           "celadon",
           "celadon",
           "celadon",
-          "rust"
-        ],
-        [
-          "cobalt",
-          "cobalt",
-          "cobalt",
-          "celadon"
-        ],
-        [
-          "rust",
-          "rust",
-          "rust",
           "cobalt"
         ],
         [],
+        [
+          "rust",
+          "celadon",
+          "rust",
+          "cobalt"
+        ],
+        [
+          "rust",
+          "cobalt",
+          "cobalt",
+          "rust"
+        ],
         []
       ],
       "capacity": 4,
       "goldDrops": 3,
-      "targetMoves": 8,
-      "optimalMoves": 5,
+      "targetMoves": 11,
+      "optimalMoves": 8,
       "palette": [
         {
           "id": "celadon",
@@ -203,30 +203,30 @@
       "name": "Spring Awakening \u2014 5",
       "bowls": [
         [],
+        [],
+        [
+          "rust",
+          "rust",
+          "rust",
+          "cobalt"
+        ],
+        [
+          "celadon",
+          "rust",
+          "cobalt",
+          "celadon"
+        ],
         [
           "cobalt",
           "celadon",
           "celadon",
           "cobalt"
-        ],
-        [
-          "rust",
-          "rust",
-          "rust",
-          "celadon"
-        ],
-        [],
-        [
-          "celadon",
-          "cobalt",
-          "cobalt",
-          "rust"
         ]
       ],
       "capacity": 4,
       "goldDrops": 3,
-      "targetMoves": 9,
-      "optimalMoves": 6,
+      "targetMoves": 11,
+      "optimalMoves": 8,
       "palette": [
         {
           "id": "celadon",
@@ -256,26 +256,26 @@
           "cobalt",
           "cobalt",
           "cobalt",
-          "celadon"
+          "rust"
         ],
         [
-          "rust",
-          "rust",
+          "celadon",
+          "celadon",
           "rust",
           "celadon"
         ],
         [],
         [
-          "celadon",
           "cobalt",
+          "rust",
           "celadon",
           "rust"
         ]
       ],
       "capacity": 4,
       "goldDrops": 3,
-      "targetMoves": 11,
-      "optimalMoves": 8,
+      "targetMoves": 13,
+      "optimalMoves": 10,
       "palette": [
         {
           "id": "celadon",
@@ -300,21 +300,21 @@
       "index": 6,
       "name": "Spring Awakening \u2014 7",
       "bowls": [
-        [],
         [
-          "cobalt",
           "celadon",
           "cobalt",
-          "celadon"
+          "celadon",
+          "cobalt"
         ],
+        [],
         [
           "rust",
           "rust",
-          "rust",
-          "celadon"
+          "celadon",
+          "cobalt"
         ],
         [
-          "cobalt",
+          "rust",
           "rust",
           "cobalt",
           "celadon"
@@ -349,31 +349,31 @@
       "index": 7,
       "name": "Spring Awakening \u2014 8",
       "bowls": [
-        [],
         [
+          "celadon",
           "cobalt",
-          "cobalt",
-          "rust",
-          "celadon"
+          "celadon",
+          "cobalt"
         ],
-        [],
         [
+          "cobalt",
           "rust",
           "celadon",
+          "cobalt"
+        ],
+        [
+          "rust",
+          "rust",
           "rust",
           "celadon"
         ],
-        [
-          "cobalt",
-          "cobalt",
-          "rust",
-          "celadon"
-        ]
+        [],
+        []
       ],
       "capacity": 4,
       "goldDrops": 3,
-      "targetMoves": 14,
-      "optimalMoves": 11,
+      "targetMoves": 11,
+      "optimalMoves": 8,
       "palette": [
         {
           "id": "celadon",
@@ -400,29 +400,29 @@
       "bowls": [
         [
           "celadon",
+          "celadon",
+          "rust",
+          "cobalt"
+        ],
+        [
           "cobalt",
+          "celadon",
+          "rust",
+          "cobalt"
+        ],
+        [
+          "rust",
+          "rust",
           "celadon",
           "cobalt"
         ],
         [],
-        [
-          "rust",
-          "celadon",
-          "celadon",
-          "cobalt"
-        ],
-        [
-          "rust",
-          "rust",
-          "rust",
-          "cobalt"
-        ],
         []
       ],
       "capacity": 4,
       "goldDrops": 3,
-      "targetMoves": 10,
-      "optimalMoves": 7,
+      "targetMoves": 13,
+      "optimalMoves": 10,
       "palette": [
         {
           "id": "celadon",
@@ -453,25 +453,25 @@
           "celadon",
           "rust"
         ],
-        [],
         [
-          "rust",
-          "rust",
-          "rust",
-          "cobalt"
-        ],
-        [
-          "cobalt",
           "cobalt",
           "celadon",
-          "cobalt"
+          "cobalt",
+          "rust"
         ],
-        []
+        [],
+        [],
+        [
+          "cobalt",
+          "rust",
+          "rust",
+          "cobalt"
+        ]
       ],
       "capacity": 4,
       "goldDrops": 3,
-      "targetMoves": 8,
-      "optimalMoves": 5,
+      "targetMoves": 11,
+      "optimalMoves": 8,
       "palette": [
         {
           "id": "celadon",
@@ -496,31 +496,31 @@
       "index": 10,
       "name": "Spring Awakening \u2014 11",
       "bowls": [
-        [
-          "celadon",
-          "celadon",
-          "rust",
-          "cobalt"
-        ],
         [],
         [
-          "rust",
           "cobalt",
           "cobalt",
-          "rust"
+          "celadon",
+          "cobalt"
         ],
         [
-          "celadon",
-          "celadon",
           "rust",
-          "cobalt"
+          "rust",
+          "rust",
+          "celadon"
+        ],
+        [
+          "rust",
+          "celadon",
+          "cobalt",
+          "celadon"
         ],
         []
       ],
       "capacity": 4,
       "goldDrops": 3,
-      "targetMoves": 10,
-      "optimalMoves": 7,
+      "targetMoves": 11,
+      "optimalMoves": 8,
       "palette": [
         {
           "id": "celadon",
@@ -545,26 +545,26 @@
       "index": 11,
       "name": "Spring Awakening \u2014 12",
       "bowls": [
-        [],
         [
+          "celadon",
+          "celadon",
           "cobalt",
-          "cobalt",
-          "rust",
-          "celadon"
+          "rust"
         ],
+        [],
         [
           "rust",
           "celadon",
-          "rust",
-          "celadon"
+          "celadon",
+          "rust"
         ],
-        [],
         [
           "cobalt",
           "cobalt",
           "rust",
-          "celadon"
-        ]
+          "cobalt"
+        ],
+        []
       ],
       "capacity": 4,
       "goldDrops": 3,
@@ -596,29 +596,29 @@
       "bowls": [
         [
           "celadon",
+          "celadon",
+          "celadon",
+          "cobalt"
+        ],
+        [
           "cobalt",
-          "rust",
-          "cobalt"
-        ],
-        [],
-        [
-          "celadon",
-          "celadon",
-          "celadon",
-          "cobalt"
-        ],
-        [
-          "rust",
-          "rust",
+          "cobalt",
           "cobalt",
           "rust"
         ],
+        [
+          "rust",
+          "rust",
+          "rust",
+          "celadon"
+        ],
+        [],
         []
       ],
       "capacity": 4,
       "goldDrops": 3,
-      "targetMoves": 13,
-      "optimalMoves": 10,
+      "targetMoves": 7,
+      "optimalMoves": 4,
       "palette": [
         {
           "id": "celadon",
@@ -646,28 +646,28 @@
         [
           "celadon",
           "celadon",
-          "celadon",
+          "cobalt",
           "rust"
         ],
         [
           "cobalt",
           "cobalt",
           "celadon",
-          "cobalt"
+          "rust"
         ],
+        [],
         [
           "rust",
           "rust",
-          "rust",
+          "celadon",
           "cobalt"
         ],
-        [],
         []
       ],
       "capacity": 4,
       "goldDrops": 3,
-      "targetMoves": 8,
-      "optimalMoves": 5,
+      "targetMoves": 11,
+      "optimalMoves": 8,
       "palette": [
         {
           "id": "celadon",
@@ -695,28 +695,28 @@
         [
           "celadon",
           "rust",
-          "celadon",
+          "rust",
           "cobalt"
         ],
+        [],
         [
           "cobalt",
           "cobalt",
-          "rust",
-          "celadon"
+          "cobalt",
+          "rust"
         ],
-        [],
-        [],
         [
-          "rust",
-          "rust",
-          "cobalt",
-          "celadon"
-        ]
+          "celadon",
+          "celadon",
+          "celadon",
+          "rust"
+        ],
+        []
       ],
       "capacity": 4,
       "goldDrops": 3,
-      "targetMoves": 13,
-      "optimalMoves": 10,
+      "targetMoves": 10,
+      "optimalMoves": 7,
       "palette": [
         {
           "id": "celadon",
@@ -745,7 +745,7 @@
           "celadon",
           "celadon",
           "rust",
-          "cobalt"
+          "rice"
         ],
         [],
         [
@@ -756,23 +756,23 @@
         ],
         [
           "rice",
-          "rice",
-          "rice",
-          "cobalt"
+          "cobalt",
+          "cobalt",
+          "rice"
         ],
+        [],
+        [],
         [
           "celadon",
           "celadon",
           "rice",
           "cobalt"
-        ],
-        [],
-        []
+        ]
       ],
       "capacity": 4,
       "goldDrops": 2,
-      "targetMoves": 9,
-      "optimalMoves": 7,
+      "targetMoves": 11,
+      "optimalMoves": 9,
       "palette": [
         {
           "id": "celadon",
@@ -805,35 +805,35 @@
         [
           "celadon",
           "celadon",
-          "rust",
-          "cobalt"
+          "cobalt",
+          "rice"
         ],
         [
           "cobalt",
-          "celadon",
           "cobalt",
-          "rust"
+          "rust",
+          "rice"
         ],
+        [],
         [],
         [
           "rice",
-          "rice",
-          "rust",
+          "celadon",
+          "celadon",
           "cobalt"
         ],
         [],
-        [],
         [
-          "rice",
-          "rice",
-          "celadon",
-          "rust"
+          "rust",
+          "rust",
+          "rust",
+          "rice"
         ]
       ],
       "capacity": 4,
       "goldDrops": 2,
-      "targetMoves": 13,
-      "optimalMoves": 11,
+      "targetMoves": 11,
+      "optimalMoves": 9,
       "palette": [
         {
           "id": "celadon",
@@ -864,37 +864,37 @@
       "name": "Summer Firing \u2014 3",
       "bowls": [
         [
-          "rice",
-          "rice",
-          "rice",
-          "rust"
-        ],
-        [
-          "cobalt",
-          "cobalt",
-          "cobalt",
-          "celadon"
-        ],
-        [
-          "rice",
+          "celadon",
+          "celadon",
           "rust",
-          "rust",
-          "celadon"
+          "cobalt"
         ],
         [],
-        [],
         [
-          "celadon",
-          "cobalt",
-          "celadon",
-          "rust"
+          "rust",
+          "rust",
+          "rust",
+          "cobalt"
         ],
+        [
+          "rice",
+          "rice",
+          "rice",
+          "cobalt"
+        ],
+        [
+          "rice",
+          "celadon",
+          "celadon",
+          "cobalt"
+        ],
+        [],
         []
       ],
       "capacity": 4,
       "goldDrops": 2,
-      "targetMoves": 15,
-      "optimalMoves": 13,
+      "targetMoves": 9,
+      "optimalMoves": 7,
       "palette": [
         {
           "id": "celadon",
@@ -926,36 +926,36 @@
       "bowls": [
         [
           "celadon",
-          "celadon",
           "rust",
-          "cobalt"
-        ],
-        [],
-        [
-          "rust",
-          "rust",
-          "cobalt",
+          "rice",
           "rust"
         ],
         [
+          "cobalt",
+          "cobalt",
+          "cobalt",
+          "celadon"
+        ],
+        [],
+        [
           "rice",
           "rice",
-          "rice",
-          "cobalt"
+          "celadon",
+          "rust"
         ],
         [],
         [],
         [
-          "celadon",
-          "celadon",
+          "rust",
+          "cobalt",
           "rice",
-          "cobalt"
+          "celadon"
         ]
       ],
       "capacity": 4,
       "goldDrops": 2,
-      "targetMoves": 11,
-      "optimalMoves": 9,
+      "targetMoves": 14,
+      "optimalMoves": 12,
       "palette": [
         {
           "id": "celadon",
@@ -988,35 +988,35 @@
         [
           "celadon",
           "celadon",
-          "cobalt",
-          "rice"
-        ],
-        [],
-        [
-          "rust",
-          "cobalt",
           "rust",
           "rice"
         ],
         [],
         [
-          "celadon",
-          "celadon",
+          "rust",
+          "rust",
           "cobalt",
-          "rust"
+          "rice"
         ],
-        [],
         [
           "rice",
           "cobalt",
           "rice",
-          "rust"
+          "cobalt"
+        ],
+        [],
+        [],
+        [
+          "celadon",
+          "celadon",
+          "rust",
+          "cobalt"
         ]
       ],
       "capacity": 4,
       "goldDrops": 2,
-      "targetMoves": 16,
-      "optimalMoves": 14,
+      "targetMoves": 14,
+      "optimalMoves": 12,
       "palette": [
         {
           "id": "celadon",
@@ -1049,35 +1049,35 @@
         [
           "celadon",
           "celadon",
-          "celadon",
-          "rice"
-        ],
-        [
-          "cobalt",
-          "cobalt",
-          "cobalt",
-          "rice"
-        ],
-        [
-          "rust",
-          "rust",
           "rice",
           "cobalt"
         ],
         [],
         [],
+        [
+          "rice",
+          "rice",
+          "cobalt",
+          "rust"
+        ],
+        [
+          "rice",
+          "rust",
+          "rust",
+          "cobalt"
+        ],
         [],
         [
-          "rust",
-          "rust",
           "celadon",
-          "rice"
+          "celadon",
+          "cobalt",
+          "rust"
         ]
       ],
       "capacity": 4,
       "goldDrops": 2,
-      "targetMoves": 9,
-      "optimalMoves": 7,
+      "targetMoves": 12,
+      "optimalMoves": 10,
       "palette": [
         {
           "id": "celadon",
@@ -1107,38 +1107,38 @@
       "index": 6,
       "name": "Summer Firing \u2014 7",
       "bowls": [
+        [],
         [
-          "celadon",
-          "celadon",
-          "cobalt",
-          "rice"
-        ],
-        [
-          "cobalt",
-          "cobalt",
           "rice",
+          "rice",
+          "rice",
+          "celadon"
+        ],
+        [],
+        [
+          "rice",
+          "celadon",
+          "celadon",
           "cobalt"
         ],
+        [],
+        [
+          "cobalt",
+          "cobalt",
+          "rust",
+          "celadon"
+        ],
         [
           "rust",
           "rust",
-          "rust",
-          "rice"
-        ],
-        [],
-        [],
-        [
-          "celadon",
-          "celadon",
-          "rust",
-          "rice"
-        ],
-        []
+          "cobalt",
+          "rust"
+        ]
       ],
       "capacity": 4,
       "goldDrops": 2,
-      "targetMoves": 10,
-      "optimalMoves": 8,
+      "targetMoves": 12,
+      "optimalMoves": 10,
       "palette": [
         {
           "id": "celadon",
@@ -1170,36 +1170,36 @@
       "bowls": [
         [
           "celadon",
-          "celadon",
           "rice",
-          "cobalt"
+          "celadon",
+          "rice"
+        ],
+        [
+          "cobalt",
+          "cobalt",
+          "rust",
+          "rice"
+        ],
+        [
+          "rust",
+          "rust",
+          "rust",
+          "celadon"
         ],
         [],
-        [
-          "rust",
-          "rust",
-          "rust",
-          "cobalt"
-        ],
-        [
-          "rice",
-          "rice",
-          "rice",
-          "cobalt"
-        ],
-        [
-          "celadon",
-          "celadon",
-          "rust",
-          "cobalt"
-        ],
         [],
+        [
+          "cobalt",
+          "cobalt",
+          "celadon",
+          "rice"
+        ],
         []
       ],
       "capacity": 4,
       "goldDrops": 2,
-      "targetMoves": 9,
-      "optimalMoves": 7,
+      "targetMoves": 12,
+      "optimalMoves": 10,
       "palette": [
         {
           "id": "celadon",
@@ -1232,35 +1232,35 @@
         [
           "celadon",
           "celadon",
-          "rice",
-          "cobalt"
+          "celadon",
+          "rice"
+        ],
+        [
+          "cobalt",
+          "cobalt",
+          "celadon",
+          "rice"
         ],
         [
           "rust",
           "rust",
           "cobalt",
-          "rust"
+          "rice"
         ],
         [],
         [],
         [],
         [
-          "rice",
-          "celadon",
-          "celadon",
-          "cobalt"
-        ],
-        [
-          "rice",
-          "rice",
+          "rust",
+          "rust",
           "cobalt",
-          "rust"
+          "rice"
         ]
       ],
       "capacity": 4,
       "goldDrops": 2,
-      "targetMoves": 15,
-      "optimalMoves": 13,
+      "targetMoves": 10,
+      "optimalMoves": 8,
       "palette": [
         {
           "id": "celadon",
@@ -1290,38 +1290,38 @@
       "index": 9,
       "name": "Summer Firing \u2014 10",
       "bowls": [
-        [
-          "celadon",
-          "celadon",
-          "cobalt",
-          "rust"
-        ],
+        [],
         [
           "cobalt",
           "rust",
+          "rice",
+          "celadon"
+        ],
+        [
+          "rust",
+          "rust",
+          "rust",
+          "celadon"
+        ],
+        [
+          "rice",
+          "rice",
+          "celadon",
+          "rice"
+        ],
+        [],
+        [
           "cobalt",
-          "rust"
+          "cobalt",
+          "cobalt",
+          "celadon"
         ],
-        [],
-        [
-          "rice",
-          "rice",
-          "rice",
-          "cobalt"
-        ],
-        [
-          "rice",
-          "celadon",
-          "celadon",
-          "rust"
-        ],
-        [],
         []
       ],
       "capacity": 4,
       "goldDrops": 2,
-      "targetMoves": 11,
-      "optimalMoves": 9,
+      "targetMoves": 12,
+      "optimalMoves": 10,
       "palette": [
         {
           "id": "celadon",
@@ -1351,31 +1351,31 @@
       "index": 10,
       "name": "Summer Firing \u2014 11",
       "bowls": [
-        [
-          "celadon",
-          "rust",
-          "rice",
-          "rust"
-        ],
-        [
-          "cobalt",
-          "cobalt",
-          "cobalt",
-          "rust"
-        ],
-        [],
         [],
         [
           "cobalt",
           "rice",
+          "rust",
+          "celadon"
+        ],
+        [],
+        [
           "rice",
+          "rice",
+          "rust",
           "celadon"
         ],
         [
-          "rice",
+          "rust",
           "celadon",
           "rust",
           "celadon"
+        ],
+        [
+          "cobalt",
+          "cobalt",
+          "cobalt",
+          "rice"
         ],
         []
       ],
@@ -1415,35 +1415,35 @@
         [
           "celadon",
           "celadon",
-          "celadon",
+          "rice",
           "rust"
         ],
         [
           "cobalt",
           "cobalt",
           "rice",
-          "rust"
+          "cobalt"
         ],
         [],
         [
           "rice",
+          "rust",
           "rice",
+          "rust"
+        ],
+        [
+          "celadon",
+          "celadon",
           "cobalt",
           "rust"
         ],
         [],
-        [
-          "rice",
-          "cobalt",
-          "celadon",
-          "rust"
-        ],
         []
       ],
       "capacity": 4,
       "goldDrops": 2,
-      "targetMoves": 12,
-      "optimalMoves": 10,
+      "targetMoves": 13,
+      "optimalMoves": 11,
       "palette": [
         {
           "id": "celadon",
@@ -1475,36 +1475,36 @@
       "bowls": [
         [
           "celadon",
-          "cobalt",
-          "cobalt",
-          "rice"
-        ],
-        [
-          "cobalt",
-          "rust",
-          "rust",
-          "rice"
-        ],
-        [
-          "rust",
           "celadon",
           "celadon",
-          "rice"
+          "cobalt"
         ],
         [],
         [
           "rust",
-          "cobalt",
+          "rust",
+          "rust",
+          "rice"
+        ],
+        [
           "rice",
+          "cobalt",
+          "cobalt",
+          "rust"
+        ],
+        [],
+        [
+          "rice",
+          "rice",
+          "cobalt",
           "celadon"
         ],
-        [],
         []
       ],
       "capacity": 4,
       "goldDrops": 2,
-      "targetMoves": 13,
-      "optimalMoves": 11,
+      "targetMoves": 10,
+      "optimalMoves": 8,
       "palette": [
         {
           "id": "celadon",
@@ -1543,23 +1543,23 @@
         ],
         [
           "rust",
+          "rust",
+          "rust",
+          "cobalt"
+        ],
+        [
+          "rice",
+          "rice",
           "celadon",
-          "rice",
-          "celadon"
-        ],
-        [
-          "rice",
-          "rice",
-          "rust",
-          "celadon"
+          "rice"
         ],
         [],
         [],
         [
+          "cobalt",
+          "celadon",
           "rust",
-          "cobalt",
-          "cobalt",
-          "rust"
+          "celadon"
         ]
       ],
       "capacity": 4,
@@ -1598,35 +1598,35 @@
         [
           "celadon",
           "celadon",
-          "cobalt",
-          "rust"
-        ],
-        [
-          "cobalt",
-          "cobalt",
-          "cobalt",
-          "rust"
-        ],
-        [],
-        [],
-        [],
-        [
-          "rice",
-          "rice",
           "celadon",
           "rust"
         ],
         [
+          "cobalt",
+          "rice",
+          "cobalt",
+          "rust"
+        ],
+        [],
+        [
           "rice",
           "rice",
           "rust",
-          "celadon"
-        ]
+          "cobalt"
+        ],
+        [],
+        [
+          "celadon",
+          "cobalt",
+          "rice",
+          "rust"
+        ],
+        []
       ],
       "capacity": 4,
       "goldDrops": 2,
-      "targetMoves": 11,
-      "optimalMoves": 9,
+      "targetMoves": 13,
+      "optimalMoves": 11,
       "palette": [
         {
           "id": "celadon",
@@ -1659,47 +1659,47 @@
         [
           "celadon",
           "celadon",
-          "tenmoku",
-          "rice",
-          "celadon"
-        ],
-        [
-          "cobalt",
-          "cobalt",
-          "cobalt",
-          "cobalt",
-          "rust"
-        ],
-        [],
-        [
-          "rice",
-          "rice",
-          "rice",
-          "tenmoku",
-          "rice"
-        ],
-        [],
-        [
-          "rust",
-          "rust",
-          "rust",
-          "celadon",
-          "tenmoku"
-        ],
-        [],
-        [
           "celadon",
           "tenmoku",
-          "tenmoku",
+          "cobalt"
+        ],
+        [],
+        [
+          "rust",
+          "rice",
+          "rust",
           "rust",
           "cobalt"
         ],
+        [],
+        [
+          "tenmoku",
+          "tenmoku",
+          "tenmoku",
+          "tenmoku",
+          "rust"
+        ],
+        [
+          "rice",
+          "rice",
+          "cobalt",
+          "cobalt",
+          "rice"
+        ],
+        [
+          "celadon",
+          "celadon",
+          "rice",
+          "rust",
+          "cobalt"
+        ],
+        [],
         []
       ],
       "capacity": 5,
       "goldDrops": 2,
-      "targetMoves": 16,
-      "optimalMoves": 14,
+      "targetMoves": 19,
+      "optimalMoves": 17,
       "palette": [
         {
           "id": "celadon",
@@ -1745,39 +1745,39 @@
         [
           "rust",
           "rust",
+          "celadon",
           "rust",
-          "rust",
-          "rice"
-        ],
-        [],
-        [
-          "tenmoku",
-          "tenmoku",
-          "cobalt",
-          "celadon",
-          "rice"
-        ],
-        [],
-        [
-          "rice",
-          "celadon",
-          "celadon",
-          "rice",
           "celadon"
         ],
         [
-          "tenmoku",
-          "tenmoku",
-          "tenmoku",
+          "rice",
+          "rice",
+          "rice",
           "celadon",
-          "rice"
+          "tenmoku"
         ],
-        []
+        [],
+        [],
+        [
+          "cobalt",
+          "rice",
+          "rice",
+          "celadon",
+          "tenmoku"
+        ],
+        [],
+        [
+          "tenmoku",
+          "tenmoku",
+          "tenmoku",
+          "rust",
+          "celadon"
+        ]
       ],
       "capacity": 5,
       "goldDrops": 2,
-      "targetMoves": 16,
-      "optimalMoves": 14,
+      "targetMoves": 17,
+      "optimalMoves": 15,
       "palette": [
         {
           "id": "celadon",
@@ -1813,49 +1813,49 @@
       "name": "Autumn Ash \u2014 3",
       "bowls": [
         [
-          "cobalt",
-          "cobalt",
-          "cobalt",
+          "celadon",
+          "rice",
+          "celadon",
           "rust",
-          "rice"
+          "celadon"
         ],
         [
           "cobalt",
           "cobalt",
-          "rice",
-          "tenmoku",
+          "cobalt",
+          "cobalt",
           "celadon"
         ],
         [
           "rust",
           "rust",
-          "rust",
-          "celadon",
-          "rice"
+          "tenmoku",
+          "tenmoku",
+          "rust"
         ],
-        [],
+        [
+          "rice",
+          "rice",
+          "rice",
+          "rice",
+          "cobalt"
+        ],
         [
           "tenmoku",
           "tenmoku",
           "tenmoku",
-          "tenmoku",
-          "rice"
-        ],
-        [],
-        [],
-        [
-          "celadon",
-          "celadon",
-          "celadon",
           "rust",
-          "rice"
+          "celadon"
         ],
+        [],
+        [],
+        [],
         []
       ],
       "capacity": 5,
       "goldDrops": 2,
-      "targetMoves": 14,
-      "optimalMoves": 12,
+      "targetMoves": 15,
+      "optimalMoves": 13,
       "palette": [
         {
           "id": "celadon",
@@ -1892,48 +1892,48 @@
       "bowls": [
         [
           "celadon",
-          "cobalt",
           "rust",
-          "rust",
-          "celadon"
-        ],
-        [
-          "cobalt",
           "rice",
-          "rice",
-          "celadon",
-          "rust"
+          "tenmoku",
+          "cobalt"
         ],
         [],
         [
+          "rust",
+          "rust",
+          "rust",
+          "rust",
+          "cobalt"
+        ],
+        [
           "rice",
           "rice",
           "rice",
-          "tenmoku",
-          "rust"
+          "rice",
+          "cobalt"
         ],
         [
           "tenmoku",
           "tenmoku",
-          "celadon",
           "cobalt",
+          "tenmoku",
+          "cobalt"
+        ],
+        [],
+        [
+          "celadon",
+          "celadon",
+          "celadon",
+          "celadon",
           "tenmoku"
-        ],
-        [],
-        [
-          "cobalt",
-          "cobalt",
-          "tenmoku",
-          "celadon",
-          "rust"
         ],
         [],
         []
       ],
       "capacity": 5,
       "goldDrops": 2,
-      "targetMoves": 18,
-      "optimalMoves": 16,
+      "targetMoves": 15,
+      "optimalMoves": 13,
       "palette": [
         {
           "id": "celadon",
@@ -1984,29 +1984,29 @@
         ],
         [
           "rust",
-          "celadon",
+          "rust",
+          "tenmoku",
+          "rust",
+          "tenmoku"
+        ],
+        [
           "rice",
-          "cobalt",
-          "rice"
+          "rice",
+          "rice",
+          "rice",
+          "tenmoku"
         ],
+        [],
+        [],
+        [],
         [],
         [
-          "tenmoku",
-          "tenmoku",
-          "tenmoku",
+          "celadon",
           "cobalt",
-          "rice"
-        ],
-        [],
-        [
+          "cobalt",
           "rust",
-          "rust",
-          "rust",
-          "tenmoku",
-          "rice"
-        ],
-        [],
-        []
+          "tenmoku"
+        ]
       ],
       "capacity": 5,
       "goldDrops": 2,
@@ -2049,15 +2049,23 @@
         [
           "celadon",
           "celadon",
-          "rust",
-          "rust",
-          "rice"
-        ],
-        [
-          "cobalt",
-          "cobalt",
-          "cobalt",
           "celadon",
+          "celadon",
+          "cobalt"
+        ],
+        [
+          "cobalt",
+          "tenmoku",
+          "rust",
+          "cobalt",
+          "rust"
+        ],
+        [],
+        [
+          "rice",
+          "rice",
+          "celadon",
+          "cobalt",
           "rust"
         ],
         [],
@@ -2065,31 +2073,23 @@
           "rice",
           "rice",
           "rice",
-          "rice",
+          "cobalt",
           "rust"
         ],
+        [],
+        [],
         [
           "tenmoku",
           "tenmoku",
           "tenmoku",
           "rust",
-          "celadon"
-        ],
-        [],
-        [],
-        [],
-        [
-          "cobalt",
-          "cobalt",
-          "tenmoku",
-          "tenmoku",
-          "celadon"
+          "tenmoku"
         ]
       ],
       "capacity": 5,
       "goldDrops": 2,
-      "targetMoves": 13,
-      "optimalMoves": 11,
+      "targetMoves": 16,
+      "optimalMoves": 14,
       "palette": [
         {
           "id": "celadon",
@@ -2124,50 +2124,50 @@
       "index": 6,
       "name": "Autumn Ash \u2014 7",
       "bowls": [
-        [],
         [
-          "cobalt",
-          "cobalt",
           "celadon",
+          "celadon",
+          "celadon",
+          "celadon",
+          "rice"
+        ],
+        [
           "cobalt",
-          "celadon"
-        ],
-        [
-          "rust",
-          "rust",
+          "tenmoku",
           "rust",
           "cobalt",
-          "celadon"
+          "rice"
         ],
         [
-          "rice",
-          "rice",
-          "tenmoku",
-          "tenmoku",
-          "celadon"
-        ],
-        [
-          "tenmoku",
           "rust",
           "rust",
           "tenmoku",
-          "celadon"
-        ],
-        [],
-        [],
-        [
-          "rice",
-          "rice",
-          "rice",
           "tenmoku",
           "cobalt"
         ],
+        [
+          "rice",
+          "rice",
+          "rust",
+          "rust",
+          "tenmoku"
+        ],
+        [],
+        [],
+        [
+          "celadon",
+          "cobalt",
+          "cobalt",
+          "rice",
+          "tenmoku"
+        ],
+        [],
         []
       ],
       "capacity": 5,
       "goldDrops": 2,
-      "targetMoves": 17,
-      "optimalMoves": 15,
+      "targetMoves": 16,
+      "optimalMoves": 14,
       "palette": [
         {
           "id": "celadon",
@@ -2202,50 +2202,50 @@
       "index": 7,
       "name": "Autumn Ash \u2014 8",
       "bowls": [
-        [],
+        [
+          "celadon",
+          "celadon",
+          "celadon",
+          "rust",
+          "tenmoku"
+        ],
         [
           "cobalt",
-          "rice",
-          "rice",
           "cobalt",
+          "celadon",
+          "rust",
+          "tenmoku"
+        ],
+        [],
+        [
+          "rice",
+          "rice",
+          "rice",
+          "tenmoku",
           "rice"
         ],
-        [
-          "rust",
-          "rust",
-          "rust",
-          "rust",
-          "cobalt"
-        ],
+        [],
         [],
         [
-          "tenmoku",
-          "tenmoku",
+          "rust",
+          "cobalt",
           "celadon",
-          "celadon",
+          "tenmoku",
           "rust"
         ],
-        [],
         [
-          "celadon",
-          "celadon",
-          "celadon",
           "cobalt",
-          "rice"
+          "cobalt",
+          "rice",
+          "rust",
+          "tenmoku"
         ],
-        [],
-        [
-          "tenmoku",
-          "tenmoku",
-          "tenmoku",
-          "cobalt",
-          "rice"
-        ]
+        []
       ],
       "capacity": 5,
       "goldDrops": 2,
-      "targetMoves": 15,
-      "optimalMoves": 13,
+      "targetMoves": 18,
+      "optimalMoves": 16,
       "palette": [
         {
           "id": "celadon",
@@ -2284,40 +2284,40 @@
           "celadon",
           "celadon",
           "celadon",
+          "celadon",
+          "rust"
+        ],
+        [],
+        [],
+        [
+          "rice",
+          "rice",
+          "cobalt",
           "tenmoku",
+          "rust"
+        ],
+        [
+          "tenmoku",
+          "tenmoku",
+          "tenmoku",
+          "cobalt",
+          "rust"
+        ],
+        [],
+        [
+          "rice",
+          "rice",
+          "rust",
+          "cobalt",
           "rust"
         ],
         [
           "cobalt",
           "cobalt",
-          "cobalt",
+          "rice",
           "tenmoku",
           "celadon"
         ],
-        [
-          "rust",
-          "rust",
-          "rust",
-          "tenmoku",
-          "rice"
-        ],
-        [
-          "rice",
-          "rice",
-          "rice",
-          "rice",
-          "tenmoku"
-        ],
-        [],
-        [],
-        [
-          "cobalt",
-          "cobalt",
-          "celadon",
-          "rust",
-          "tenmoku"
-        ],
-        [],
         []
       ],
       "capacity": 5,
@@ -2363,45 +2363,45 @@
           "celadon",
           "celadon",
           "tenmoku",
-          "rice"
-        ],
-        [
-          "cobalt",
-          "cobalt",
-          "cobalt",
-          "tenmoku",
-          "rice"
-        ],
-        [
-          "rust",
-          "rust",
-          "rust",
-          "rust",
-          "celadon"
+          "cobalt"
         ],
         [],
         [
-          "tenmoku",
-          "tenmoku",
-          "rice",
-          "rice",
-          "tenmoku"
+          "rust",
+          "rust",
+          "rust",
+          "rust",
+          "rice"
         ],
         [],
+        [],
         [
-          "cobalt",
-          "cobalt",
-          "rust",
           "celadon",
+          "celadon",
+          "rust",
+          "cobalt",
           "rice"
         ],
-        [],
+        [
+          "rice",
+          "rice",
+          "cobalt",
+          "tenmoku",
+          "cobalt"
+        ],
+        [
+          "tenmoku",
+          "tenmoku",
+          "tenmoku",
+          "rice",
+          "cobalt"
+        ],
         []
       ],
       "capacity": 5,
       "goldDrops": 2,
-      "targetMoves": 14,
-      "optimalMoves": 12,
+      "targetMoves": 17,
+      "optimalMoves": 15,
       "palette": [
         {
           "id": "celadon",
@@ -2436,50 +2436,50 @@
       "index": 10,
       "name": "Autumn Ash \u2014 11",
       "bowls": [
-        [],
-        [],
         [
-          "rust",
-          "rust",
-          "cobalt",
-          "cobalt",
+          "celadon",
+          "celadon",
+          "celadon",
+          "celadon",
           "rice"
         ],
         [
-          "rice",
-          "rice",
-          "rice",
-          "rice",
-          "tenmoku"
-        ],
-        [
-          "tenmoku",
-          "tenmoku",
-          "celadon",
-          "celadon",
-          "tenmoku"
-        ],
-        [],
-        [],
-        [
-          "celadon",
-          "rust",
-          "rust",
-          "rust",
+          "cobalt",
+          "cobalt",
+          "cobalt",
+          "cobalt",
           "celadon"
         ],
         [
-          "cobalt",
-          "cobalt",
-          "cobalt",
+          "rust",
           "tenmoku",
-          "celadon"
+          "rust",
+          "tenmoku",
+          "rust"
+        ],
+        [],
+        [],
+        [],
+        [],
+        [
+          "cobalt",
+          "rice",
+          "rice",
+          "tenmoku",
+          "rust"
+        ],
+        [
+          "rice",
+          "rice",
+          "tenmoku",
+          "tenmoku",
+          "rust"
         ]
       ],
       "capacity": 5,
       "goldDrops": 2,
-      "targetMoves": 14,
-      "optimalMoves": 12,
+      "targetMoves": 20,
+      "optimalMoves": 18,
       "palette": [
         {
           "id": "celadon",
@@ -2518,16 +2518,10 @@
           "celadon",
           "celadon",
           "celadon",
-          "rice",
-          "tenmoku"
+          "tenmoku",
+          "rice"
         ],
-        [
-          "cobalt",
-          "cobalt",
-          "cobalt",
-          "rice",
-          "tenmoku"
-        ],
+        [],
         [
           "rust",
           "rust",
@@ -2535,29 +2529,35 @@
           "rust",
           "rice"
         ],
-        [
-          "rice",
-          "tenmoku",
-          "celadon",
-          "tenmoku",
-          "rice"
-        ],
         [],
         [
+          "tenmoku",
+          "tenmoku",
+          "tenmoku",
+          "cobalt",
+          "rice"
+        ],
+        [
+          "cobalt",
+          "cobalt",
+          "cobalt",
+          "cobalt",
+          "rice"
+        ],
+        [
+          "rice",
           "rust",
-          "cobalt",
-          "cobalt",
+          "celadon",
           "celadon",
           "tenmoku"
         ],
-        [],
         [],
         []
       ],
       "capacity": 5,
       "goldDrops": 2,
-      "targetMoves": 16,
-      "optimalMoves": 14,
+      "targetMoves": 13,
+      "optimalMoves": 11,
       "palette": [
         {
           "id": "celadon",
@@ -2592,50 +2592,50 @@
       "index": 12,
       "name": "Autumn Ash \u2014 13",
       "bowls": [
-        [],
-        [],
         [
+          "celadon",
+          "celadon",
+          "celadon",
           "rust",
-          "rust",
-          "rust",
-          "cobalt",
           "tenmoku"
         ],
         [
-          "rice",
-          "celadon",
-          "celadon",
           "cobalt",
+          "cobalt",
+          "cobalt",
+          "rice",
+          "tenmoku"
+        ],
+        [
+          "rust",
+          "rust",
+          "rust",
+          "rust",
+          "celadon"
+        ],
+        [],
+        [],
+        [],
+        [
+          "cobalt",
+          "cobalt",
+          "celadon",
+          "rice",
           "tenmoku"
         ],
         [],
-        [],
         [
           "rice",
           "rice",
-          "rice",
-          "rice",
-          "cobalt"
-        ],
-        [
-          "cobalt",
-          "rust",
           "tenmoku",
-          "cobalt",
-          "tenmoku"
-        ],
-        [
-          "celadon",
-          "celadon",
-          "celadon",
-          "rust",
+          "rice",
           "tenmoku"
         ]
       ],
       "capacity": 5,
       "goldDrops": 2,
-      "targetMoves": 18,
-      "optimalMoves": 16,
+      "targetMoves": 16,
+      "optimalMoves": 14,
       "palette": [
         {
           "id": "celadon",
@@ -2675,45 +2675,45 @@
           "celadon",
           "celadon",
           "celadon",
+          "rust"
+        ],
+        [
+          "cobalt",
+          "cobalt",
+          "cobalt",
+          "rice",
+          "rust"
+        ],
+        [],
+        [
+          "rice",
+          "rice",
+          "rust",
+          "rust",
           "rice"
         ],
-        [],
-        [
-          "rust",
-          "rust",
-          "cobalt",
-          "rust",
-          "cobalt"
-        ],
-        [
-          "rice",
-          "tenmoku",
-          "tenmoku",
-          "tenmoku",
-          "celadon"
-        ],
         [
           "tenmoku",
-          "rice",
-          "rice",
-          "rice",
-          "cobalt"
-        ],
-        [],
-        [],
-        [
+          "tenmoku",
           "tenmoku",
           "cobalt",
-          "rust",
-          "rust",
-          "cobalt"
+          "rust"
         ],
-        []
+        [],
+        [],
+        [],
+        [
+          "cobalt",
+          "tenmoku",
+          "tenmoku",
+          "celadon",
+          "rice"
+        ]
       ],
       "capacity": 5,
       "goldDrops": 2,
-      "targetMoves": 16,
-      "optimalMoves": 14,
+      "targetMoves": 13,
+      "optimalMoves": 11,
       "palette": [
         {
           "id": "celadon",
@@ -2748,45 +2748,45 @@
       "index": 14,
       "name": "Autumn Ash \u2014 15",
       "bowls": [
-        [
-          "celadon",
-          "celadon",
-          "celadon",
-          "rice",
-          "cobalt"
-        ],
-        [],
-        [],
         [],
         [
-          "tenmoku",
-          "tenmoku",
-          "tenmoku",
-          "celadon",
-          "rust"
-        ],
-        [
-          "rust",
-          "rust",
-          "rust",
           "cobalt",
+          "cobalt",
+          "cobalt",
+          "rice",
+          "celadon"
+        ],
+        [],
+        [
+          "rice",
+          "rust",
+          "celadon",
+          "rust",
           "celadon"
         ],
         [
           "tenmoku",
           "tenmoku",
-          "cobalt",
+          "tenmoku",
           "rust",
-          "cobalt"
+          "celadon"
         ],
-        [],
         [
           "rice",
           "rice",
           "rice",
-          "rice",
-          "cobalt"
-        ]
+          "celadon",
+          "rust"
+        ],
+        [
+          "tenmoku",
+          "tenmoku",
+          "cobalt",
+          "cobalt",
+          "rust"
+        ],
+        [],
+        []
       ],
       "capacity": 5,
       "goldDrops": 2,
@@ -2826,58 +2826,58 @@
       "index": 0,
       "name": "Winter Stillness \u2014 1",
       "bowls": [
-        [
-          "celadon",
-          "celadon",
-          "celadon",
-          "sakura",
-          "cobalt"
-        ],
+        [],
         [
           "cobalt",
           "cobalt",
           "cobalt",
-          "tenmoku",
-          "rust"
-        ],
-        [
-          "rust",
-          "tenmoku",
-          "rust",
           "rust",
           "celadon"
         ],
+        [],
         [
           "rice",
           "rice",
-          "rice",
-          "rice",
-          "cobalt"
-        ],
-        [
-          "tenmoku",
-          "tenmoku",
-          "tenmoku",
-          "sakura",
-          "rice"
-        ],
-        [
-          "sakura",
-          "sakura",
-          "sakura",
           "celadon",
-          "rust"
+          "sakura",
+          "celadon"
+        ],
+        [
+          "tenmoku",
+          "tenmoku",
+          "tenmoku",
+          "celadon",
+          "sakura"
         ],
         [],
-        [],
-        [],
+        [
+          "rice",
+          "rice",
+          "tenmoku",
+          "tenmoku",
+          "sakura"
+        ],
+        [
+          "rust",
+          "rust",
+          "rust",
+          "cobalt",
+          "sakura"
+        ],
+        [
+          "rust",
+          "rice",
+          "cobalt",
+          "celadon",
+          "sakura"
+        ],
         [],
         []
       ],
       "capacity": 5,
       "goldDrops": 1,
-      "targetMoves": 14,
-      "optimalMoves": 13,
+      "targetMoves": 20,
+      "optimalMoves": 19,
       "palette": [
         {
           "id": "celadon",
@@ -2917,58 +2917,58 @@
       "index": 1,
       "name": "Winter Stillness \u2014 2",
       "bowls": [
-        [
-          "celadon",
-          "celadon",
-          "celadon",
-          "celadon",
-          "rice"
-        ],
-        [
-          "cobalt",
-          "cobalt",
-          "cobalt",
-          "cobalt",
-          "rice"
-        ],
-        [],
-        [
-          "rice",
-          "rust",
-          "rust",
-          "rice",
-          "rust"
-        ],
-        [
-          "tenmoku",
-          "tenmoku",
-          "tenmoku",
-          "rice",
-          "rust"
-        ],
         [],
         [],
         [
-          "tenmoku",
           "rust",
-          "sakura",
-          "celadon",
-          "tenmoku"
-        ],
-        [
-          "sakura",
-          "sakura",
-          "sakura",
-          "sakura",
+          "rust",
+          "rust",
+          "tenmoku",
           "cobalt"
         ],
+        [
+          "rice",
+          "rice",
+          "rice",
+          "rust",
+          "celadon"
+        ],
+        [
+          "tenmoku",
+          "tenmoku",
+          "tenmoku",
+          "sakura",
+          "celadon"
+        ],
+        [
+          "sakura",
+          "sakura",
+          "cobalt",
+          "sakura",
+          "celadon"
+        ],
         [],
-        []
+        [],
+        [],
+        [
+          "rice",
+          "rice",
+          "tenmoku",
+          "cobalt",
+          "celadon"
+        ],
+        [
+          "rust",
+          "cobalt",
+          "cobalt",
+          "sakura",
+          "celadon"
+        ]
       ],
       "capacity": 5,
       "goldDrops": 1,
-      "targetMoves": 17,
-      "optimalMoves": 16,
+      "targetMoves": 18,
+      "optimalMoves": 17,
       "palette": [
         {
           "id": "celadon",
@@ -3008,13 +3008,7 @@
       "index": 2,
       "name": "Winter Stillness \u2014 3",
       "bowls": [
-        [
-          "celadon",
-          "celadon",
-          "celadon",
-          "sakura",
-          "rice"
-        ],
+        [],
         [
           "cobalt",
           "cobalt",
@@ -3026,40 +3020,46 @@
           "rust",
           "rust",
           "rust",
+          "tenmoku",
+          "celadon"
+        ],
+        [],
+        [
+          "tenmoku",
+          "rice",
+          "rust",
+          "sakura",
+          "celadon"
+        ],
+        [
+          "sakura",
+          "sakura",
+          "sakura",
           "sakura",
           "rice"
         ],
         [],
-        [],
         [
-          "sakura",
-          "sakura",
-          "sakura",
-          "tenmoku",
-          "rice"
-        ],
-        [
-          "tenmoku",
           "tenmoku",
           "rice",
           "rice",
-          "rust"
+          "cobalt",
+          "celadon"
         ],
         [],
         [
           "cobalt",
-          "cobalt",
-          "celadon",
+          "rice",
           "tenmoku",
-          "rust"
+          "rust",
+          "celadon"
         ],
-        [],
         []
       ],
       "capacity": 5,
       "goldDrops": 1,
-      "targetMoves": 17,
-      "optimalMoves": 16,
+      "targetMoves": 19,
+      "optimalMoves": 18,
       "palette": [
         {
           "id": "celadon",
@@ -3099,58 +3099,58 @@
       "index": 3,
       "name": "Winter Stillness \u2014 4",
       "bowls": [
-        [
-          "celadon",
-          "celadon",
-          "celadon",
-          "cobalt",
-          "tenmoku"
-        ],
-        [
-          "cobalt",
-          "sakura",
-          "sakura",
-          "cobalt",
-          "sakura"
-        ],
-        [
-          "rust",
-          "rust",
-          "rust",
-          "rust",
-          "sakura"
-        ],
-        [
-          "rice",
-          "rice",
-          "rice",
-          "rust",
-          "tenmoku"
-        ],
-        [
-          "tenmoku",
-          "tenmoku",
-          "tenmoku",
-          "cobalt",
-          "sakura"
-        ],
-        [],
-        [],
         [],
         [
+          "cobalt",
+          "cobalt",
+          "cobalt",
           "celadon",
-          "rice",
-          "rice",
-          "celadon",
+          "rice"
+        ],
+        [
+          "rust",
+          "rust",
+          "rust",
+          "rust",
           "cobalt"
         ],
         [],
+        [
+          "tenmoku",
+          "celadon",
+          "celadon",
+          "celadon",
+          "cobalt"
+        ],
+        [
+          "sakura",
+          "sakura",
+          "sakura",
+          "sakura",
+          "rice"
+        ],
+        [
+          "rice",
+          "rice",
+          "celadon",
+          "rice",
+          "sakura"
+        ],
+        [],
+        [],
+        [
+          "tenmoku",
+          "tenmoku",
+          "tenmoku",
+          "tenmoku",
+          "rust"
+        ],
         []
       ],
       "capacity": 5,
       "goldDrops": 1,
-      "targetMoves": 16,
-      "optimalMoves": 15,
+      "targetMoves": 15,
+      "optimalMoves": 14,
       "palette": [
         {
           "id": "celadon",
@@ -3195,53 +3195,53 @@
           "celadon",
           "celadon",
           "tenmoku",
-          "sakura"
-        ],
-        [
-          "cobalt",
-          "cobalt",
-          "rust",
-          "rust",
-          "sakura"
-        ],
-        [
-          "rust",
-          "rust",
-          "celadon",
-          "celadon",
           "rice"
         ],
         [
-          "rice",
-          "rice",
-          "rice",
-          "tenmoku",
-          "sakura"
+          "cobalt",
+          "cobalt",
+          "cobalt",
+          "cobalt",
+          "rust"
         ],
         [
-          "tenmoku",
-          "tenmoku",
-          "tenmoku",
           "rust",
-          "sakura"
+          "celadon",
+          "tenmoku",
+          "tenmoku",
+          "rust"
+        ],
+        [
+          "rice",
+          "rice",
+          "rust",
+          "tenmoku",
+          "rice"
         ],
         [],
-        [],
+        [
+          "sakura",
+          "cobalt",
+          "rust",
+          "tenmoku",
+          "rice"
+        ],
         [],
         [],
         [
-          "cobalt",
-          "cobalt",
-          "cobalt",
-          "rice",
-          "sakura"
+          "sakura",
+          "sakura",
+          "sakura",
+          "sakura",
+          "celadon"
         ],
+        [],
         []
       ],
       "capacity": 5,
       "goldDrops": 1,
-      "targetMoves": 15,
-      "optimalMoves": 14,
+      "targetMoves": 19,
+      "optimalMoves": 18,
       "palette": [
         {
           "id": "celadon",
@@ -3281,45 +3281,42 @@
       "index": 5,
       "name": "Winter Stillness \u2014 6",
       "bowls": [
-        [],
-        [],
         [
-          "rust",
-          "rust",
-          "rust",
-          "sakura",
-          "celadon"
+          "celadon",
+          "celadon",
+          "celadon",
+          "celadon",
+          "sakura"
         ],
         [
-          "rice",
-          "rice",
           "cobalt",
-          "celadon",
+          "rice",
+          "sakura",
+          "tenmoku",
           "rice"
         ],
         [
+          "rust",
+          "rust",
+          "rust",
           "tenmoku",
+          "rice"
+        ],
+        [],
+        [
           "tenmoku",
           "tenmoku",
           "rice",
-          "celadon"
-        ],
-        [
-          "sakura",
-          "tenmoku",
-          "tenmoku",
-          "rust",
-          "celadon"
-        ],
-        [],
-        [
           "rice",
+          "rust"
+        ],
+        [
+          "sakura",
           "sakura",
           "sakura",
           "rust",
-          "sakura"
+          "tenmoku"
         ],
-        [],
         [],
         [
           "cobalt",
@@ -3327,12 +3324,15 @@
           "cobalt",
           "cobalt",
           "celadon"
-        ]
+        ],
+        [],
+        [],
+        []
       ],
       "capacity": 5,
       "goldDrops": 1,
-      "targetMoves": 18,
-      "optimalMoves": 17,
+      "targetMoves": 14,
+      "optimalMoves": 13,
       "palette": [
         {
           "id": "celadon",
@@ -3375,55 +3375,55 @@
         [
           "celadon",
           "celadon",
-          "rice",
-          "cobalt",
-          "sakura"
+          "celadon",
+          "celadon",
+          "tenmoku"
         ],
         [
           "cobalt",
           "cobalt",
-          "rust",
-          "rust",
-          "sakura"
-        ],
-        [
-          "rust",
-          "rust",
-          "rust",
-          "rice",
-          "sakura"
-        ],
-        [],
-        [
-          "tenmoku",
           "cobalt",
           "rice",
+          "sakura"
+        ],
+        [
+          "rust",
+          "rust",
+          "rust",
+          "rust",
+          "sakura"
+        ],
+        [
+          "rice",
+          "rice",
+          "sakura",
           "sakura",
           "rice"
         ],
-        [],
         [
           "tenmoku",
           "tenmoku",
           "tenmoku",
           "tenmoku",
-          "celadon"
+          "rust"
         ],
         [],
+        [],
         [
           "celadon",
-          "celadon",
+          "cobalt",
           "cobalt",
           "rice",
           "sakura"
         ],
+        [],
         [],
         []
       ],
       "capacity": 5,
       "goldDrops": 1,
-      "targetMoves": 18,
-      "optimalMoves": 17,
+      "targetMoves": 13,
+      "optimalMoves": 12,
       "palette": [
         {
           "id": "celadon",
@@ -3466,55 +3466,55 @@
         [
           "celadon",
           "celadon",
+          "cobalt",
+          "cobalt",
+          "rust"
+        ],
+        [],
+        [
+          "rust",
+          "rust",
           "celadon",
-          "rice",
+          "celadon",
           "sakura"
         ],
-        [],
         [
-          "rust",
-          "rust",
-          "celadon",
           "rice",
-          "tenmoku"
+          "rice",
+          "rice",
+          "rice",
+          "rust"
         ],
         [
-          "rice",
-          "rice",
           "tenmoku",
           "tenmoku",
+          "tenmoku",
+          "sakura",
           "cobalt"
         ],
+        [
+          "sakura",
+          "sakura",
+          "tenmoku",
+          "tenmoku",
+          "rice"
+        ],
+        [],
         [],
         [
           "sakura",
           "cobalt",
           "cobalt",
-          "sakura",
-          "cobalt"
+          "rust",
+          "celadon"
         ],
         [],
-        [],
-        [
-          "celadon",
-          "tenmoku",
-          "sakura",
-          "sakura",
-          "cobalt"
-        ],
-        [],
-        [
-          "rust",
-          "rust",
-          "rust",
-          "rice",
-          "tenmoku"
-        ]
+        []
       ],
       "capacity": 5,
       "goldDrops": 1,
-      "targetMoves": 18,
-      "optimalMoves": 17,
+      "targetMoves": 16,
+      "optimalMoves": 15,
       "palette": [
         {
           "id": "celadon",
@@ -3557,9 +3557,9 @@
         [
           "celadon",
           "celadon",
-          "celadon",
-          "celadon",
-          "tenmoku"
+          "rust",
+          "rice",
+          "rust"
         ],
         [
           "cobalt",
@@ -3571,41 +3571,41 @@
         [
           "rust",
           "rust",
-          "rust",
-          "rice",
-          "tenmoku"
+          "sakura",
+          "sakura",
+          "cobalt"
         ],
+        [],
         [
-          "rice",
-          "rice",
-          "rice",
           "tenmoku",
-          "celadon"
+          "tenmoku",
+          "celadon",
+          "celadon",
+          "rice"
         ],
-        [],
         [
           "sakura",
           "sakura",
           "sakura",
-          "sakura",
-          "tenmoku"
+          "celadon",
+          "rice"
         ],
+        [],
         [],
         [],
         [
+          "tenmoku",
+          "tenmoku",
+          "tenmoku",
           "rust",
-          "rust",
-          "cobalt",
-          "sakura",
-          "tenmoku"
+          "rice"
         ],
-        [],
         []
       ],
       "capacity": 5,
       "goldDrops": 1,
-      "targetMoves": 13,
-      "optimalMoves": 12,
+      "targetMoves": 15,
+      "optimalMoves": 14,
       "palette": [
         {
           "id": "celadon",
@@ -3645,58 +3645,58 @@
       "index": 9,
       "name": "Winter Stillness \u2014 10",
       "bowls": [
-        [],
+        [
+          "celadon",
+          "celadon",
+          "celadon",
+          "sakura",
+          "rice"
+        ],
         [
           "cobalt",
           "cobalt",
           "cobalt",
-          "cobalt",
+          "sakura",
+          "rust"
+        ],
+        [],
+        [
+          "rice",
+          "rust",
+          "rust",
+          "rice",
           "rust"
         ],
         [
-          "rust",
-          "rust",
-          "rice",
           "tenmoku",
-          "celadon"
+          "tenmoku",
+          "tenmoku",
+          "tenmoku",
+          "rice"
         ],
         [
-          "celadon",
-          "tenmoku",
-          "tenmoku",
-          "tenmoku",
-          "celadon"
+          "sakura",
+          "sakura",
+          "sakura",
+          "rice",
+          "rust"
         ],
         [],
-        [
-          "sakura",
-          "sakura",
-          "sakura",
-          "rust",
-          "tenmoku"
-        ],
         [
           "cobalt",
-          "rice",
-          "rice",
-          "rice",
-          "celadon"
+          "tenmoku",
+          "celadon",
+          "celadon",
+          "cobalt"
         ],
         [],
         [],
-        [
-          "sakura",
-          "sakura",
-          "rust",
-          "rice",
-          "celadon"
-        ],
         []
       ],
       "capacity": 5,
       "goldDrops": 1,
-      "targetMoves": 17,
-      "optimalMoves": 16,
+      "targetMoves": 16,
+      "optimalMoves": 15,
       "palette": [
         {
           "id": "celadon",
@@ -3738,66 +3738,66 @@
       "bowls": [
         [
           "celadon",
-          "gold",
-          "gold",
-          "gold",
-          "gold",
-          "cobalt"
+          "celadon",
+          "celadon",
+          "celadon",
+          "celadon",
+          "sakura"
         ],
         [
           "cobalt",
+          "cobalt",
+          "cobalt",
+          "sakura",
+          "rice",
+          "rust"
+        ],
+        [],
+        [],
+        [
+          "tenmoku",
+          "tenmoku",
+          "tenmoku",
+          "gold",
+          "celadon",
+          "rice"
+        ],
+        [
+          "sakura",
+          "rust",
+          "rust",
+          "rust",
+          "rice",
+          "rust"
+        ],
+        [
+          "gold",
+          "gold",
+          "gold",
+          "gold",
+          "gold",
+          "tenmoku"
+        ],
+        [],
+        [],
+        [],
+        [
           "cobalt",
           "cobalt",
           "cobalt",
           "tenmoku",
-          "sakura"
-        ],
-        [
-          "rust",
-          "rust",
-          "rust",
-          "rust",
-          "rust",
+          "tenmoku",
           "rice"
         ],
         [
           "rice",
-          "rice",
-          "rice",
-          "rice",
-          "cobalt",
-          "rust"
-        ],
-        [
-          "tenmoku",
-          "tenmoku",
-          "tenmoku",
-          "tenmoku",
-          "celadon",
-          "sakura"
-        ],
-        [],
-        [],
-        [],
-        [],
-        [
-          "celadon",
-          "celadon",
-          "celadon",
-          "rice",
-          "sakura",
-          "celadon"
-        ],
-        [],
-        [],
-        [
-          "gold",
-          "gold",
           "sakura",
           "sakura",
-          "tenmoku",
-          "sakura"
-        ]
+          "sakura",
+          "rust",
+          "rice"
+        ],
+        []
       ],
       "capacity": 6,
       "goldDrops": 0,
@@ -3847,22 +3847,36 @@
       "index": 1,
       "name": "Golden Age \u2014 2",
       "bowls": [
-        [],
-        [],
-        [],
         [
-          "rice",
-          "rice",
-          "rice",
+          "celadon",
+          "celadon",
+          "rust",
+          "rust",
           "cobalt",
-          "cobalt",
-          "celadon"
+          "sakura"
         ],
         [
+          "cobalt",
+          "cobalt",
+          "cobalt",
+          "rice",
+          "sakura",
+          "rice"
+        ],
+        [
+          "rust",
+          "rust",
+          "rust",
+          "rust",
+          "celadon",
+          "rice"
+        ],
+        [],
+        [
           "tenmoku",
-          "tenmoku",
-          "tenmoku",
-          "tenmoku",
+          "celadon",
+          "celadon",
+          "gold",
           "tenmoku",
           "rice"
         ],
@@ -3870,50 +3884,36 @@
           "sakura",
           "sakura",
           "sakura",
-          "rice",
+          "sakura",
           "celadon",
-          "rust"
+          "rice"
         ],
         [
           "gold",
           "gold",
           "gold",
           "gold",
-          "gold",
-          "cobalt"
+          "cobalt",
+          "gold"
         ],
+        [],
+        [],
+        [],
+        [],
+        [],
         [
-          "sakura",
-          "sakura",
-          "sakura",
-          "gold",
           "tenmoku",
-          "cobalt"
-        ],
-        [],
-        [
-          "celadon",
-          "rust",
-          "rust",
-          "rust",
+          "tenmoku",
+          "tenmoku",
+          "tenmoku",
           "cobalt",
-          "rust"
-        ],
-        [],
-        [],
-        [
-          "celadon",
-          "celadon",
-          "celadon",
-          "rice",
-          "cobalt",
-          "rust"
+          "rice"
         ]
       ],
       "capacity": 6,
       "goldDrops": 0,
-      "targetMoves": 20,
-      "optimalMoves": 19,
+      "targetMoves": 21,
+      "optimalMoves": 20,
       "palette": [
         {
           "id": "celadon",
@@ -3960,71 +3960,71 @@
       "bowls": [
         [
           "celadon",
-          "celadon",
-          "celadon",
-          "celadon",
-          "sakura",
-          "tenmoku"
-        ],
-        [
-          "cobalt",
-          "cobalt",
-          "cobalt",
+          "tenmoku",
           "tenmoku",
           "gold",
-          "cobalt"
+          "gold",
+          "celadon"
         ],
         [
-          "rust",
-          "rust",
-          "rust",
-          "rust",
-          "gold",
-          "tenmoku"
-        ],
-        [
-          "rice",
-          "rice",
-          "rice",
-          "rice",
-          "rice",
-          "tenmoku"
-        ],
-        [],
-        [
-          "sakura",
-          "sakura",
-          "sakura",
-          "sakura",
-          "rice",
-          "tenmoku"
-        ],
-        [
-          "gold",
-          "gold",
-          "gold",
           "cobalt",
-          "sakura",
+          "cobalt",
+          "cobalt",
+          "cobalt",
+          "celadon",
+          "rust"
+        ],
+        [
+          "rust",
+          "rust",
+          "rust",
+          "rust",
+          "rice",
+          "gold"
+        ],
+        [
+          "rice",
+          "rice",
+          "rice",
+          "rice",
+          "rice",
           "tenmoku"
         ],
+        [
+          "tenmoku",
+          "sakura",
+          "cobalt",
+          "cobalt",
+          "rust",
+          "gold"
+        ],
+        [
+          "sakura",
+          "sakura",
+          "celadon",
+          "celadon",
+          "tenmoku",
+          "gold"
+        ],
+        [],
+        [],
+        [],
         [],
         [],
         [],
         [
-          "rust",
-          "rust",
           "celadon",
-          "celadon",
-          "gold",
-          "cobalt"
-        ],
-        [],
-        []
+          "sakura",
+          "sakura",
+          "sakura",
+          "tenmoku",
+          "gold"
+        ]
       ],
       "capacity": 6,
       "goldDrops": 0,
-      "targetMoves": 20,
-      "optimalMoves": 19,
+      "targetMoves": 22,
+      "optimalMoves": 21,
       "palette": [
         {
           "id": "celadon",
@@ -4074,68 +4074,68 @@
           "celadon",
           "celadon",
           "celadon",
-          "tenmoku",
-          "rust"
+          "rice",
+          "tenmoku"
         ],
         [
           "cobalt",
           "cobalt",
           "cobalt",
-          "cobalt",
-          "gold",
-          "rice"
+          "sakura",
+          "sakura",
+          "gold"
         ],
         [
           "rust",
           "rust",
           "rust",
+          "rust",
+          "rust",
+          "sakura"
+        ],
+        [
+          "rice",
+          "rice",
+          "rice",
           "rice",
           "rice",
           "sakura"
         ],
+        [
+          "tenmoku",
+          "tenmoku",
+          "tenmoku",
+          "tenmoku",
+          "tenmoku",
+          "sakura"
+        ],
         [],
         [
-          "tenmoku",
-          "tenmoku",
-          "celadon",
-          "celadon",
-          "sakura",
-          "rice"
+          "gold",
+          "gold",
+          "gold",
+          "gold",
+          "gold",
+          "sakura"
         ],
+        [],
+        [],
+        [],
+        [],
+        [],
         [
-          "sakura",
-          "sakura",
-          "sakura",
-          "sakura",
-          "gold",
-          "rice"
-        ],
-        [
-          "gold",
-          "gold",
-          "gold",
-          "gold",
           "cobalt",
+          "cobalt",
+          "cobalt",
+          "celadon",
+          "celadon",
           "rust"
-        ],
-        [],
-        [],
-        [
-          "tenmoku",
-          "tenmoku",
-          "tenmoku",
-          "cobalt",
-          "rust",
-          "rice"
-        ],
-        [],
-        [],
-        []
+        ]
       ],
       "capacity": 6,
       "goldDrops": 0,
-      "targetMoves": 18,
-      "optimalMoves": 17,
+      "targetMoves": 12,
+      "optimalMoves": 11,
       "palette": [
         {
           "id": "celadon",
@@ -4182,71 +4182,71 @@
       "bowls": [
         [
           "celadon",
-          "tenmoku",
-          "tenmoku",
-          "tenmoku",
-          "celadon",
-          "rust"
-        ],
-        [
-          "cobalt",
-          "cobalt",
-          "cobalt",
-          "cobalt",
-          "cobalt",
-          "sakura"
-        ],
-        [
-          "rust",
-          "rust",
-          "rust",
           "celadon",
           "gold",
-          "sakura"
+          "celadon",
+          "rust",
+          "tenmoku"
         ],
         [
-          "rice",
-          "rice",
-          "rice",
-          "rice",
-          "rice",
+          "cobalt",
+          "cobalt",
+          "cobalt",
+          "sakura",
+          "gold",
+          "tenmoku"
+        ],
+        [
+          "rust",
+          "rust",
+          "rust",
+          "rust",
+          "rust",
           "gold"
         ],
         [
-          "tenmoku",
-          "tenmoku",
-          "tenmoku",
-          "rust",
-          "rust",
-          "sakura"
+          "rice",
+          "rice",
+          "sakura",
+          "gold",
+          "celadon",
+          "tenmoku"
         ],
         [],
         [
-          "gold",
-          "gold",
-          "gold",
           "sakura",
           "sakura",
-          "cobalt"
+          "sakura",
+          "sakura",
+          "celadon",
+          "tenmoku"
         ],
+        [],
+        [],
+        [],
         [
-          "celadon",
-          "celadon",
-          "celadon",
+          "rice",
+          "rice",
+          "rice",
           "rice",
           "gold",
-          "sakura"
+          "tenmoku"
         ],
         [],
-        [],
-        [],
-        [],
+        [
+          "cobalt",
+          "cobalt",
+          "cobalt",
+          "celadon",
+          "gold",
+          "tenmoku"
+        ],
         []
       ],
       "capacity": 6,
       "goldDrops": 0,
-      "targetMoves": 18,
-      "optimalMoves": 17,
+      "targetMoves": 26,
+      "optimalMoves": 25,
       "palette": [
         {
           "id": "celadon",

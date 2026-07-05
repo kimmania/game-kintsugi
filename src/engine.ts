@@ -135,6 +135,7 @@ export function resetState(state: GameState): void {
 export function isWin(state: GameState): boolean {
   for (const bowl of state.bowls) {
     if (bowl.length === 0) continue;
+    if (bowl.length !== state.capacity) return false;
     const color = bowl[0];
     if (color === 'gold') return false;
     if (bowl.some((c) => c !== color)) return false;
