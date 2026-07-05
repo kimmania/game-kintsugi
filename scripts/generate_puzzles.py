@@ -152,10 +152,11 @@ def make_solved(params: dict) -> list[list[str]]:
     return tubes
 
 
-def scramble(params: dict, seed: int, max_retries: int = 15) -> Optional[tuple[list[list[str]], int]]:
+def scramble(params: dict, seed: int, max_retries: int = 40) -> Optional[tuple[list[list[str]], int]]:
     rng = random.Random(seed)
     height = params["capacity"]
-    steps = max(10, params.get("count", 10) // 2 + params["colors"] * 2)
+    steps = max(20, params.get("count", 10) + params["colors"] * 3)
+    colors = params["colors"]
     for _ in range(max_retries):
         tubes = deepcopy(make_solved(params))
         applied = 0
@@ -164,7 +165,7 @@ def scramble(params: dict, seed: int, max_retries: int = 15) -> Optional[tuple[l
             if not moves:
                 break
             mixing = [m for m in moves if len(tubes[m[1]]) > 0]
-            if mixing and rng.random() < 0.90:
+            if mixing and rng.random() < 0.85:
                 a, b, k = rng.choice(mixing)
             else:
                 a, b, k = rng.choice(moves)
@@ -172,7 +173,8 @@ def scramble(params: dict, seed: int, max_retries: int = 15) -> Optional[tuple[l
             tubes[a] = tubes[a][:-k]
             tubes[b].extend(block)
             applied += 1
-        if not is_trivially_solved(tubes, height) and mix_score(tubes) > 0:
+        nonempty = sum(1 for t in tubes if t)
+        if nonempty == colors and not is_trivially_solved(tubes, height) and mix_score(tubes) > 0:
             return tubes, applied
     return None
 

@@ -36,14 +36,13 @@ export function renderBowls(state: GameState, onTap: (idx: number) => void): voi
       frag.className = 'fragment';
       if (color === 'gold') frag.classList.add('fragment-gold');
       frag.dataset.color = color;
-      // shards become slightly narrower toward the top of the bowl
-      const inset = (capacity - fragmentIndex - 1) * 1.5;
+      // wider near bottom, slightly narrower near rim to follow bowl curve
+      const inset = Math.min(fragmentIndex * 0.8, 6);
       frag.style.setProperty('--fragment-inset', `${inset}px`);
       const fraction = 1 / capacity;
       frag.style.setProperty('--fragment-height-fraction', `${fraction}`);
       div.appendChild(frag);
     });
-
     const foot = document.createElement('div');
     foot.className = 'bowl-foot';
     wrapper.appendChild(foot);
